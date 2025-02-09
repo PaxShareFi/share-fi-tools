@@ -14,25 +14,28 @@ The main script (`getTokenHolders.js`) generates snapshots of SHARE token holder
 ### Usage
 
 Run the script with the following required parameters:
+
 ```bash
-node getTokenHolders.js --price=<current_price> --airdrop=<airdrop_amount>
+node getTokenHolders.js --price=<SHARE_price_in_USD> --airdrop=<airdrop_amount>
 ```
 
-Example:
+Example (using current SHARE price as of February 2024):
+
 ```bash
-node getTokenHolders.js --price=0.00007966 --airdrop=0.7
+node getTokenHolders.js --price=0.0001017 --airdrop=0.7
 ```
 
 ### Parameters
 
-- `--price`: Current SHARE token price in USD
-- `--airdrop`: Total amount of SOL to be distributed in the airdrop
+- `--price`: Current SHARE token price in USD (e.g., 0.0001017 = $0.0001017)
+- `--airdrop`: Total amount of tokens to be distributed in the airdrop (e.g., 0.7 = 0.7 tokens)
 
 ### Output Files
 
 The script generates two snapshot files in the `snapshots/` directory with timestamps:
 
 1. `holders_[timestamp].csv`
+
    - Simple CSV format for airdrop distribution
    - Contains two columns: `Owner` (wallet address) and `AirdropAmount` (SOL amount)
    - Suitable for direct use in airdrop distribution tools
@@ -53,6 +56,7 @@ The script generates two snapshot files in the `snapshots/` directory with times
 ### Configuration
 
 Key constants in the script:
+
 - `LAMPORTS_PER_SHARE`: 1,000,000,000 (10^9 lamports per SHARE token)
 - `SHTokenAddress`: "8r9q4eyMpXS5Dq29urXai52BNfKZbCB4wciD1jLwY68y"
 - `EXCLUDED_WALLETS`: Array of addresses to exclude from distribution
@@ -60,6 +64,7 @@ Key constants in the script:
 ### Example Output
 
 The script provides detailed console output including:
+
 - Configuration details
 - Threshold calculations
 - Holder statistics
