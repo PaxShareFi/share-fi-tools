@@ -1,4 +1,5 @@
-// Move API key to environment variable or config file
+// This was the API key helius gives out for free
+// Please create and .env file and add the API key to it
 const HELIUS_API_KEY = process.env.HELIUS_API_KEY || "0fc6e451-923e-434f-8787-7691d3dc4120";
 const url = `https://mainnet.helius-rpc.com/?api-key=${HELIUS_API_KEY}`;
 const fs = require("fs");
