@@ -71,6 +71,58 @@ The script provides detailed console output including:
 - Total and average airdrop amounts
 - File generation confirmation
 
+### Understanding the Math
+
+#### Step 1: Token Value Calculations
+
+1. **SHARE Token Price**: $0.0001017 USD per SHARE
+2. **Minimum Holding**: $5.00 USD worth of SHARE tokens
+3. **Conversion to Minimum Tokens**:
+   - $5.00 ÷ $0.0001017 = 49,165.19 SHARE tokens needed
+
+#### Step 2: Lamport Conversion
+
+1. **Lamports per SHARE**: 1,000,000,000 (1 billion)
+2. **Minimum Lamports**:
+   - 49,165.19 SHARE × 1,000,000,000 = 49,165,190,000,000 lamports
+3. **Why Lamports?**
+   - Lamports are the smallest unit of the token
+   - Similar to how cents are to dollars
+   - Helps avoid floating-point precision issues
+
+#### Step 3: Holder Percentage Calculation
+
+For each holder:
+
+1. **Calculate Percentage**:
+   ```
+   Holder's Percentage = (Holder's Lamports ÷ Total Supply) × 100
+   ```
+2. **Example**:
+   - If holder has 54,428,467,048,618,660 lamports
+   - Total supply is 763,783,037,768,251,355 lamports
+   - Percentage = (54,428,467,048,618,660 ÷ 763,783,037,768,251,355) × 100
+   - = 7.126168605113%
+
+#### Step 4: Airdrop Distribution
+
+1. **Calculate Individual Airdrop**:
+   ```
+   Holder's Airdrop = Total Airdrop × (Holder's Percentage ÷ 100)
+   ```
+2. **Example**:
+   - If total airdrop is 0.7 tokens
+   - Holder's percentage is 7.126168605113%
+   - Airdrop amount = 0.7 × (7.126168605113 ÷ 100)
+   - = 0.064135517 tokens
+
+#### Verification
+
+- Each holder must have at least $5 USD worth of SHARE
+- Percentages of all holders should sum to 100%
+- Total airdrop amounts should sum to the input airdrop amount
+- Excluded wallets (like liquidity pools) are removed before calculations
+
 ## License
 
 [Add your chosen license here]
