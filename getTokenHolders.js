@@ -318,7 +318,7 @@ const findHolders = async () => {
     .map((holder) => {
       // Calculate airdrop amount based on percentage (removing the % symbol and converting to number)
       const percentageValue = parseFloat(holder.percentage.replace("%", "")) / 100;
-      const airdropAmount = (airdropCoinSupply * percentageValue).toFixed(9);
+      const airdropAmount = (airdropCoinSupply * percentageValue).toFixed(8);
       return `${holder.owner},${airdropAmount}`;
     })
     .join("\n");
