@@ -11,7 +11,9 @@ const fs = require("fs");
 // Constants and configuration
 const LAMPORTS_PER_SHARE = 1000000000; // 10^9 lamports per SHARE token
 const SHTokenAddress = "8r9q4eyMpXS5Dq29urXai52BNfKZbCB4wciD1jLwY68y";
-const EXCLUDED_WALLETS = ["BW7XM7PDT9BS5gcxZNNz2UJYmufYeYTFwfMog9nhDhe1"]; // Liquidity pool
+// "BW7XM7PDT9BS5gcxZNNz2UJYmufYeYTFwfMog9nhDhe1" = Orca Liquidity Pool
+// "45ruCyfdRkWpRNGEqWzjCiXRHkZs8WXCLQ67Pnpye7Hp" = Jupiter Partner Referral Fee Vault
+const EXCLUDED_WALLETS = ["BW7XM7PDT9BS5gcxZNNz2UJYmufYeYTFwfMog9nhDhe1", "45ruCyfdRkWpRNGEqWzjCiXRHkZs8WXCLQ67Pnpye7Hp"];
 
 // Get arguments from command line
 const args = process.argv.slice(2);
