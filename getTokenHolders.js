@@ -5,8 +5,8 @@ require("dotenv").config();
 const HELIUS_API_KEY = process.env.HELIUS_API_KEY || "0fc6e451-923e-434f-8787-7691d3dc4120";
 const url = `https://mainnet.helius-rpc.com/?api-key=${HELIUS_API_KEY}`;
 const fs = require("fs");
-
-console.log(`Using API Key: ${HELIUS_API_KEY === "0fc6e451-923e-434f-8787-7691d3dc4120" ? "Default" : "Custom"}`);
+// debug for helius api key
+// console.log(`Using API Key: ${HELIUS_API_KEY === "0fc6e451-923e-434f-8787-7691d3dc4120" ? "Default" : "Custom"}`);
 
 // Constants and configuration
 const LAMPORTS_PER_SHARE = 1000000000; // 10^9 lamports per SHARE token
