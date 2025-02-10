@@ -12,4 +12,5 @@ This document tracks all ShareFi token airdrops, including details about distrib
 - **Number of Recipients**: 100
 - **Snapshot Date**: February 9, 2024
 - **Distribution Criteria**: Greater than $5 of SHARE
-- **Transaction Hash**: [Insert Hash]
+- **SOL in airdropper wallet BEFORE**: 0.39627
+- **SOL in airdropper wallet AFTER**: 0.15805
