@@ -175,10 +175,11 @@ const findHolders = async () => {
 
   let page = 1;
   let holdersWithBalance = new Map();
+  let liquidityPoolHoldings = BigInt(0);
+  let hasMoreResults = true;
 
   const MAX_RETRIES = 3;
   const RETRY_DELAY = 1000; // 1 second
-  let hasMoreResults = true;
 
   while (hasMoreResults) {
     let retries = 0;
@@ -223,12 +224,28 @@ const findHolders = async () => {
         }
 
         console.log(`Processing page ${page} (${data.result.token_accounts.length} accounts)`);
-        data.result.token_accounts.forEach((account) => {
-          const shareAmount = Number(account.amount) / LAMPORTS_PER_SHARE;
+        // First find liquidity pool holdings
+        const liquidityPoolAccount = data.result.token_accounts.find((account) => EXCLUDED_WALLETS.includes(account.owner));
+        if (liquidityPoolAccount) {
+          liquidityPoolHoldings = BigInt(liquidityPoolAccount.amount);
+          console.log(`Found liquidity pool holding ${liquidityPoolHoldings.toString()} lamports`);
+          const circulatingSupply = totalSupplyOfSHToken - liquidityPoolHoldings;
+          console.log(
+            `Circulating supply (total - LP): ${totalSupplyOfSHToken.toString()} - ${liquidityPoolHoldings.toString()} = ${circulatingSupply.toString()} lamports`
+          );
+        }
 
+        // Filter out excluded wallets first before any processing
+        const filteredAccounts = data.result.token_accounts.filter((account) => !EXCLUDED_WALLETS.includes(account.owner));
+        console.log(
+          `Processing ${filteredAccounts.length} accounts (excluding ${data.result.token_accounts.length - filteredAccounts.length} excluded wallets)`
+        );
+
+        filteredAccounts.forEach((account) => {
+          const shareAmount = Number(account.amount) / LAMPORTS_PER_SHARE;
           const usdValue = shareAmount * currentSHARETokenUSDValue;
 
-          if (Number(account.amount) >= minimumLamports && !EXCLUDED_WALLETS.includes(account.owner)) {
+          if (Number(account.amount) >= minimumLamports) {
             holdersWithBalance.set(account.owner, account.amount);
           }
         });
@@ -250,8 +267,10 @@ const findHolders = async () => {
   // Convert filtered Map to array
   const holdersArray = Array.from(holdersWithBalance).map(([owner, amount]) => {
     const amountBigInt = BigInt(amount);
-    // Calculate percentage of total supply using BigInt to maintain precision
-    const percentageBigInt = (amountBigInt * BigInt("10000000000000000")) / totalSupplyOfSHToken;
+    // Calculate circulating supply (total supply minus liquidity pool)
+    const circulatingSupply = totalSupplyOfSHToken - liquidityPoolHoldings;
+    // Calculate percentage based on circulating supply
+    const percentageBigInt = (amountBigInt * BigInt("10000000000000000")) / circulatingSupply;
     const percentage = (Number(percentageBigInt) / 100000000000000).toFixed(12);
 
     // Store the raw amount and only convert for display when needed
