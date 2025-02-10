@@ -60,6 +60,42 @@ console.log("\n=== Final Results ===");
 console.log(`$${SHTokenValueMinimumUSD} USD equals ${minimumLamports} lamports`);
 console.log("===============================\n");
 
+// Helper function to format timestamps consistently
+const formatTimestamp = (date = new Date(), format = "file") => {
+  if (format === "file") {
+    return date.toISOString().replace(/[:.]/g, "-").replace("T", "_").replace("Z", "");
+  }
+  return date.toLocaleString("en-US", {
+    weekday: "short",
+    year: "numeric",
+    month: "short",
+    day: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+    second: "2-digit",
+    timeZoneName: "short",
+  });
+};
+
+// Helper function to save API responses
+const saveApiResponse = (methodName, data, page = null) => {
+  // Create api-response directory if it doesn't exist
+  if (!fs.existsSync("snapshots/api-responses")) {
+    fs.mkdirSync("snapshots/api-responses", { recursive: true });
+  }
+
+  // Generate timestamp
+  const fileTimestamp = formatTimestamp();
+
+  // Build filename with optional page number
+  const filename =
+    page !== null
+      ? `snapshots/api-responses/${methodName}_response_${fileTimestamp}_page_${page}.json`
+      : `snapshots/api-responses/${methodName}_response_${fileTimestamp}.json`;
+
+  fs.writeFileSync(filename, JSON.stringify(data, null, 2));
+};
+
 // Function to get current SHARE price
 async function getCurrentSharePrice() {
   // TODO: Implement API call to Jupiter service get current SHARE price
@@ -85,7 +121,7 @@ async function getTotalSupply() {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
     // THIS IS EXACTLY WHAT the api returns
-    /* 
+    /*
     {
   jsonrpc: '2.0',
   result: {
@@ -100,11 +136,17 @@ async function getTotalSupply() {
   id: 1
 } 
   */
+    // i have created a snapshots/api-response folder
+    // put this response in there
     const data = await response.json();
+
     console.log("Result for $SHARE getTokenSupply:", data.result.value);
     if (data.error) {
       throw new Error(`API error: ${data.error.message}`);
     }
+
+    // Save raw API response
+    saveApiResponse("getTokenSupply", data);
 
     return BigInt(data.result.value.amount);
   } catch (error) {
@@ -124,16 +166,7 @@ const findHolders = async () => {
   const minimumLamports = Math.ceil(lamportsPerUSD * SHTokenValueMinimumUSD);
 
   // Log the threshold with human-readable timestamp
-  const timestamp = new Date().toLocaleString("en-US", {
-    weekday: "short",
-    year: "numeric",
-    month: "short",
-    day: "numeric",
-    hour: "2-digit",
-    minute: "2-digit",
-    second: "2-digit",
-    timeZoneName: "short",
-  });
+  const timestamp = formatTimestamp(new Date(), "human");
   console.log(`[${timestamp}] Using SHARE price: $${currentSHARETokenUSDValue}`);
   console.log(`[${timestamp}] Minimum SH tokens needed for airdrop (>$5): ${minimumLamports / 100000000} SH (${minimumLamports} raw units)`);
   console.log(
@@ -174,6 +207,10 @@ const findHolders = async () => {
         }
 
         const data = await response.json();
+
+        // Save raw API response
+        saveApiResponse("getTokenAccounts", data, page);
+
         if (data.error) {
           throw new Error(`API error: ${data.error.message}`);
         }
@@ -243,7 +280,7 @@ const findHolders = async () => {
   }
 
   // Generate timestamp for filenames
-  const fileTimestamp = new Date().toISOString().replace(/[:.]/g, "-").replace("T", "_").replace("Z", "");
+  const fileTimestamp = formatTimestamp();
 
   // When writing JSON output - only include share token data for validation
   const jsonOutput = holdersArray.map((holder) => ({
