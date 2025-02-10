@@ -13,3 +13,5 @@ This document tracks all ShareFi token airdrops, including details about distrib
 - **Distribution Criteria**: Greater than $5 of SHARE
 - **SOL in airdropper wallet BEFORE**: 0.39627
 - **SOL in airdropper wallet AFTER**: 0.15805
+- **SHARE burned by airdropper**: 3,151,993.71
+- **SHARE burn Hash**: https://solscan.io/tx/23udQ7KzoFgiy7UB8g6JwSieh7t5t6Vs31nFuoQzuyMPeDpoYAQ8D7HS6vGHnUSgDFCvypgAWRJSyCTGw4pUQW3R
