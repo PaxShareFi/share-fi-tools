@@ -1,4 +1,4 @@
-# ShareFi Airdrop History
+# ShareFi Airdrop and Burn History
 
 This document tracks all ShareFi token airdrops, including details about distribution, eligibility criteria, and token amounts.
 
@@ -14,4 +14,7 @@ This document tracks all ShareFi token airdrops, including details about distrib
 - **SOL in airdropper wallet BEFORE**: 0.39627
 - **SOL in airdropper wallet AFTER**: 0.15805
 - **SHARE burned by airdropper**: 3,151,993.71
-- **SHARE burn Hash**: https://solscan.io/tx/23udQ7KzoFgiy7UB8g6JwSieh7t5t6Vs31nFuoQzuyMPeDpoYAQ8D7HS6vGHnUSgDFCvypgAWRJSyCTGw4pUQW3R
+- **SHARE burn Hashes**: https://solscan.io/tx/23udQ7KzoFgiy7UB8g6JwSieh7t5t6Vs31nFuoQzuyMPeDpoYAQ8D7HS6vGHnUSgDFCvypgAWRJSyCTGw4pUQW3R https://solscan.io/tx/2rDx1W14T4RnP5nQ41w16FK9j1J1q36vfw5r3naD9ZwKkWCoSN1tXhYt6m8TPigPBpu2wdn7VfSxKeV1b9m5RMWZ
+https://solscan.io/tx/5bBzpzjPRCDWyWWT2C17mhm6JU9cradZCdEcaLgmGTTMPG8H3SgJziZsSuHGogZQHAp15XynS5HhSc5wSxRZmuaS
+https://solscan.io/tx/3kbMVmbnnnoTdmb6j7shMJeLBhYoMHjgJZnuZvQLbjHfthBvL229xrUkxdWhza6nbqCWrCUaZcYA48kvsaJauy1H
+https://solscan.io/tx/3pjuq2gNgcFbqtbuFcRXwzG3EA68nSpQfrktfCCzqHBzfLApFWi2YDgSPn5SbUxzdN5fyKTRAyZQLB6WqkGUFupM
