@@ -1,0 +1,4 @@
+ShareFi Raydium Liquidity Pool Added
+Rationale: We needed an additional LP so that we would be visible on dex screener and to attract algo/sniper trading from Raydium ecosystem.
+90% of all SOL fees from Raydium LP will be passed through to $Share holders and all $Share fees earned will be burnt.
+https://solscan.io/account/qWpEpPrhLKp9Y7HV2fpCwGmW8Nc7F2RQD7jdqRAubgi
