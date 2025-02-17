@@ -12,7 +12,7 @@ This document tracks all ShareFi token airdrops, including details about distrib
 - **Price of SHARE at snapshot**: 0.0001252
 - **Est.Transaction cost on SLERF tools**: 0.4 (SOL) or (USD)(We kept this amount of SOL sidelined in airdropper wallet to ensure we covered fees)
 - **Number of Recipients**: 100
-- **Distribution Criteria**: Greater than $5 of SHARE / Excluse liquidity pools
+- **Distribution Criteria**: Greater than $5 of SHARE / Exclude liquidity pools
 - **SOL in airdropper wallet BEFORE**: 0.39627
 - **SOL in airdropper wallet AFTER**: 0.15805
 - **Tx cost of Slerf Tools for 100-wallet airdrop**:0.23822
@@ -21,3 +21,23 @@ This document tracks all ShareFi token airdrops, including details about distrib
 https://solscan.io/tx/5bBzpzjPRCDWyWWT2C17mhm6JU9cradZCdEcaLgmGTTMPG8H3SgJziZsSuHGogZQHAp15XynS5HhSc5wSxRZmuaS
 https://solscan.io/tx/3kbMVmbnnnoTdmb6j7shMJeLBhYoMHjgJZnuZvQLbjHfthBvL229xrUkxdWhza6nbqCWrCUaZcYA48kvsaJauy1H
 https://solscan.io/tx/3pjuq2gNgcFbqtbuFcRXwzG3EA68nSpQfrktfCCzqHBzfLApFWi2YDgSPn5SbUxzdN5fyKTRAyZQLB6WqkGUFupM
+
+
+## Airdrop & Token Burn #2 - ~1 SOL or 3300 GFM distributed.
+- **Date**: February 17, 2024
+- **Status**: Complete
+- **Total Harvested Week 2 rewards from LPs**:~1.15 SOL
+- **SOL spent to purchase GFM**:1 SOL
+- **Total GFM to be airdropped**: 3483
+- **Total GFM distributed**: 3291
+- **Price of SHARE at snapshot**:
+- **Est.Transaction cost on SLERF tools**: 0.3 (SOL) (We kept this amount of SOL sidelined in airdropper wallet to ensure we covered fees)
+- **Number of Recipients**: 135
+- **Distribution Criteria**: Greater than $5 of SHARE / Exclude liquidity pools and airdropper wallet
+- **SOL in airdropper wallet BEFORE airdrop & burn**: 0.29757
+- **SOL in airdropper wallet AFTER airdrop & burn**: 0.13856 (additionally there is 192 GFM that was not sent due to a rounding error, this will be used on next airdrop & burn)
+- **Tx cost of Slerf Tools & SolTokenBurner for 135-wallet airdrop & token burn**:0.15901
+- **SHARE Week 2 Burn amount**: 714,686.924001929 $Share
+- **Week 2 Solscans**: 
+https://solscan.io/account/BfRPyWCShrHtDyLxSaFL2aaPTAT2uUcRN5XQamijKMUa#transfers
+https://solscan.io/tx/4pNmdLHosqaLqX2R3HZ5b9TVeiLkesvQvv77XdtEiLmSsDfBSuYZRZufopoGnp6fmSJuzxPsmcRmVpxAhHabbNcR
