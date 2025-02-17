@@ -13,10 +13,12 @@ const LAMPORTS_PER_SHARE = 1000000000; // 10^9 lamports per SHARE token
 const SHTokenAddress = "8r9q4eyMpXS5Dq29urXai52BNfKZbCB4wciD1jLwY68y";
 // "BW7XM7PDT9BS5gcxZNNz2UJYmufYeYTFwfMog9nhDhe1" = Orca Liquidity Pool
 // "45ruCyfdRkWpRNGEqWzjCiXRHkZs8WXCLQ67Pnpye7Hp" = Jupiter Partner Referral Fee Vault
+// "GpMZbSM2GgvTKHJirzeGfMFoaZ8UR2X7F4v8vHTvxFbL" = Raydium Liquidity Pool
 // "BfRPyWCShrHtDyLxSaFL2aaPTAT2uUcRN5XQamijKMUa" = Airdropper wallet address
 const EXCLUDED_WALLETS = [
   "BW7XM7PDT9BS5gcxZNNz2UJYmufYeYTFwfMog9nhDhe1",
   "45ruCyfdRkWpRNGEqWzjCiXRHkZs8WXCLQ67Pnpye7Hp",
+  "GpMZbSM2GgvTKHJirzeGfMFoaZ8UR2X7F4v8vHTvxFbL",
   "BfRPyWCShrHtDyLxSaFL2aaPTAT2uUcRN5XQamijKMUa",
 ];
 
