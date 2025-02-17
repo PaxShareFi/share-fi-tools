@@ -30,7 +30,7 @@ https://solscan.io/tx/3pjuq2gNgcFbqtbuFcRXwzG3EA68nSpQfrktfCCzqHBzfLApFWi2YDgSPn
 - **SOL spent to purchase GFM**:1 SOL
 - **Total GFM to be airdropped**: 3483
 - **Total GFM distributed**: 3291
-- **Price of SHARE at snapshot**:
+- **Price of SHARE at snapshot**:$0.00041799
 - **Est.Transaction cost on SLERF tools**: 0.3 (SOL) (We kept this amount of SOL sidelined in airdropper wallet to ensure we covered fees)
 - **Number of Recipients**: 135
 - **Distribution Criteria**: Greater than $5 of SHARE / Exclude liquidity pools and airdropper wallet
