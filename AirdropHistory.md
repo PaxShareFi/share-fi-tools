@@ -23,7 +23,7 @@ https://solscan.io/tx/3kbMVmbnnnoTdmb6j7shMJeLBhYoMHjgJZnuZvQLbjHfthBvL229xrUkxd
 https://solscan.io/tx/3pjuq2gNgcFbqtbuFcRXwzG3EA68nSpQfrktfCCzqHBzfLApFWi2YDgSPn5SbUxzdN5fyKTRAyZQLB6WqkGUFupM
 
 
-## Airdrop & Token Burn #2 - ~1 SOL or 3291 GFM distributed.
+## Week 2 Airdrop & Token Burn - ~1 SOL or 3291 GFM distributed.
 - **Date**: February 17, 2024
 - **Status**: Complete
 - **Total Harvested Week 2 rewards from LPs**:~1.15 SOL
