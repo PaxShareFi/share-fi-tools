@@ -339,8 +339,8 @@ const findHolders = async () => {
   }, 0);
 
   console.log("\n=== Airdrop Summary ===");
-  console.log(`Total SOL to be distributed: ${totalAirdropTokens.toFixed(9)} SOL`);
-  console.log(`Average per holder: ${(totalAirdropTokens / holdersArray.length).toFixed(9)} SOL`);
+  console.log(`Total SOL/SLP to be distributed: ${totalAirdropTokens.toFixed(9)} SOL/SLP`);
+  console.log(`Average per holder: ${(totalAirdropTokens / holdersArray.length).toFixed(9)} SOL/SLP`);
 
   console.log("\n=== Writing Output Files ===");
   console.log(`JSON file: snapshots/holders_${fileTimestamp}.json`);
