@@ -1,0 +1,16 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "context": {
+      "apiVersion": "2.2.0",
+      "slot": 321284486
+    },
+    "value": {
+      "amount": "760629896315325115",
+      "decimals": 9,
+      "uiAmount": 760629896.315325,
+      "uiAmountString": "760629896.315325115"
+    }
+  },
+  "id": 1
+}
