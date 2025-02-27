@@ -38,6 +38,14 @@ https://solscan.io/tx/3pjuq2gNgcFbqtbuFcRXwzG3EA68nSpQfrktfCCzqHBzfLApFWi2YDgSPn
 - **SOL in airdropper wallet AFTER airdrop & burn**: 0.13856 (additionally there is 192 GFM that was not sent due to a rounding error, this will be used on next airdrop & burn)
 - **Tx cost of Slerf Tools & SolTokenBurner for 135-wallet airdrop & token burn**:0.15901
 - **SHARE Week 2 Burn amount**: 714,686.924001929 $Share
+
+
+## Week 3 Airdrop & Token Burn - No airdrop this week due to limited SOL rewards
+- **Date**: February 26, 2024
+- **Status**: Complete
+- **Total Harvested Week 2 rewards from LPs**:~0.13 SOL
+- **SOL in airdropper wallet BEFORE airdrop & burn**: 0.26587
+- **SOL in airdropper wallet AFTER airdrop & burn**: 0.26587 (no airdrop this week so SOL amount is accumulating, still 192 GFM left for $Share holders
+- **SHARE Week 2 Burn amount**: 560902.924001929 $Share
 - **Week 2 Solscans**: 
-https://solscan.io/account/BfRPyWCShrHtDyLxSaFL2aaPTAT2uUcRN5XQamijKMUa#transfers
-https://solscan.io/tx/4pNmdLHosqaLqX2R3HZ5b9TVeiLkesvQvv77XdtEiLmSsDfBSuYZRZufopoGnp6fmSJuzxPsmcRmVpxAhHabbNcR
+https://solscan.io/tx/4TAU6LXXVU1PRDvRoXyA9fSJtWKM63TFJKLypgGRtYuGy8scNFDHfiQGTb1UEP4D1DSfAz1UgmiZSGabvQ7Q9sFZ
