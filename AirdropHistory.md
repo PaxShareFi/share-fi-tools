@@ -43,9 +43,23 @@ https://solscan.io/tx/3pjuq2gNgcFbqtbuFcRXwzG3EA68nSpQfrktfCCzqHBzfLApFWi2YDgSPn
 ## Week 3 Airdrop & Token Burn - No airdrop this week due to limited SOL rewards
 - **Date**: February 26, 2024
 - **Status**: Complete
-- **Total Harvested Week 2 rewards from LPs**:~0.13 SOL
+- **Total Harvested Week 3 rewards from LPs**:~0.13 SOL
 - **SOL in airdropper wallet BEFORE airdrop & burn**: 0.26587
-- **SOL in airdropper wallet AFTER airdrop & burn**: 0.26587 (no airdrop this week so SOL amount is accumulating, still 192 GFM left for $Share holders
-- **SHARE Week 2 Burn amount**: 560902.924001929 $Share
-- **Week 2 Solscans**: 
+- **SOL in airdropper wallet AFTER airdrop & burn**: 0.26587 (no airdrop this week so SOL amount is accumulating, still 192 GFM left for $Share holders)
+- **SHARE Week 3 Burn amount**: 560902.924001929 $Share
+- **Week 3 Solscans**: 
 https://solscan.io/tx/4TAU6LXXVU1PRDvRoXyA9fSJtWKM63TFJKLypgGRtYuGy8scNFDHfiQGTb1UEP4D1DSfAz1UgmiZSGabvQ7Q9sFZ
+
+## Week 4 Airdrop & Token Burn - No airdrop this week due to limited SOL rewards
+- **Date**: March 3rd, 2024
+- **Status**: Complete
+- **Total Harvested Week 3 rewards from LPs**:~0.166 SOL
+- **SOL in airdropper wallet BEFORE airdrop & burn**: 0.26587
+- **SOL in airdropper wallet AFTER airdrop & burn**: 0.43209 (no airdrop this week so SOL amount is accumulating, still 192 GFM left for $Share holders)
+- **SHARE Week 4 Burn amount**: 439314.924001929 $Share
+- **Week 4 Solscans**: 
+https://solscan.io/tx/4X2mn7ev1NDcNvFeJf4GFYwYSBuzqAqPSzY6J2oQ9zV8AHZAZ95oqt1GhimqSa5DnEY9DLehrmBizLuD9tuAAPD7
+https://solscan.io/tx/25w6qqRkWYCxctQHBJ92Pt1oqVkGxFYvmkLHM1ysEHXscjZSiAimNyVGiC6kgVYchViYr2cj4wgbkRhcwThAF4iL
+https://solscan.io/tx/3f3VhEx5hxWZFgnMtFpPuJ45Usfx1LZJJMi2687LoTafe3ZLkYuhQBHK6zhbuWUxJadCgMsNx9zokPuQqFQado5S
+https://solscan.io/tx/4byVQFUSTLWBhVbtaMbbJxB4ruf8wwcFF1CuTcVFTFCnY6cY1Sz9ipDwqsBqGf4YPCYy8pCE8BaMgxR8BSPkikuc
+https://solscan.io/tx/4rsB1GSEpTahp5RNiepBnjt4b2RqaJEFmginnD8tbHwBKwqaoH8WYqqEgSfRDaxWirzTQdGw49FH7GAjzt9KVbGN
