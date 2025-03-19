@@ -53,7 +53,7 @@ https://solscan.io/tx/4TAU6LXXVU1PRDvRoXyA9fSJtWKM63TFJKLypgGRtYuGy8scNFDHfiQGTb
 ## Week 4 Airdrop & Token Burn - No airdrop this week due to limited SOL rewards
 - **Date**: March 3rd, 2024
 - **Status**: Complete
-- **Total Harvested Week 3 rewards from LPs**:~0.166 SOL
+- **Total Harvested Week 4 rewards from LPs**:~0.166 SOL
 - **SOL in airdropper wallet BEFORE airdrop & burn**: 0.26587
 - **SOL in airdropper wallet AFTER airdrop & burn**: 0.43209 (no airdrop this week so SOL amount is accumulating, still 192 GFM left for $Share holders)
 - **SHARE Week 4 Burn amount**: 439314.924001929 $Share
@@ -63,3 +63,17 @@ https://solscan.io/tx/25w6qqRkWYCxctQHBJ92Pt1oqVkGxFYvmkLHM1ysEHXscjZSiAimNyVGiC
 https://solscan.io/tx/3f3VhEx5hxWZFgnMtFpPuJ45Usfx1LZJJMi2687LoTafe3ZLkYuhQBHK6zhbuWUxJadCgMsNx9zokPuQqFQado5S
 https://solscan.io/tx/4byVQFUSTLWBhVbtaMbbJxB4ruf8wwcFF1CuTcVFTFCnY6cY1Sz9ipDwqsBqGf4YPCYy8pCE8BaMgxR8BSPkikuc
 https://solscan.io/tx/4rsB1GSEpTahp5RNiepBnjt4b2RqaJEFmginnD8tbHwBKwqaoH8WYqqEgSfRDaxWirzTQdGw49FH7GAjzt9KVbGN
+
+## Week 5 & 6 Airdrop & Token Burn - No airdrop these weeks due to limited SOL rewards
+- **Date**: March 18th, 2024
+- **Status**: Complete
+- **Total Harvested Week 5 & 6 rewards from LPs**:~0.123 SOL
+- **SOL in airdropper wallet BEFORE airdrop & burn**: 0.4286
+- **SOL in airdropper wallet AFTER airdrop & burn**: 0.55161 (no airdrop these weeks so SOL amount is accumulating, still 192 GFM left for $Share holders)
+- **SHARE Week 5 & 6 Burn amount**: 537655 $Share
+- **Week 5 & 6 Solscans**: 
+https://solscan.io/tx/3pXbkBBzP3EWsHzR86qSek4cpy5Baf2zbMtfqdPdVke5yvwyzEAivhE1UyxAb5Ei3dy4us9mXpgGSa1rnCeg1isc
+https://solscan.io/tx/2yQVcRV5uZNfCsWf8ATGnczDuwr5p52dW3xV1XHfCJq6faTMWRQ7ma6BL5yZuBHJBkRH2Q1k3Xs8dnUW93AQ6SF5
+https://solscan.io/tx/22kVHTpMcXatwx445CyK4LMec36UgMhbLcFNAcCoANppg9iSJBkAzG8k2oj9UMwt2ZX1H1YuWeHJuNag6GsYBQDK
+https://solscan.io/tx/2vQtijtzgHWx6BuUkdhBepx1JBfe8eGh1JtynBriA3xPaB5xLgeiUmFk34uMsC5hr2As5WnZXPUUBGzcprqdDc6W
+https://solscan.io/tx/5v3Phhuj1FfW9y3fEXRk7ZLE8NiKrHsLpuvjKgjXJYvrjVdkkZfmfXnkuvbbZfKitsrQFCFW6mDCTA11MEDLnHDX
