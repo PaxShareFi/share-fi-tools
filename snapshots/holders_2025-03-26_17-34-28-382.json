@@ -1,0 +1,2067 @@
+[
+  {
+    "owner": "3zHAWcpaFb182yrQ8brfgPZ2gJHR9NHodN5GqMkQYZ85",
+    "lamports": 187688645629999,
+    "percentage": "18.769166961762%"
+  },
+  {
+    "owner": "6gK8gc9cbMyXgPkVBDECRNm24sPpDwK6nhWXViXTt5tS",
+    "lamports": 25000000000000,
+    "percentage": "2.500040279309%"
+  },
+  {
+    "owner": "9KvyqmUVH4b2hpt8493aAQ6Cefgv649VivbxWxCSxhR",
+    "lamports": 25000000000000,
+    "percentage": "2.500040279309%"
+  },
+  {
+    "owner": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+    "lamports": 19173412677070,
+    "percentage": "1.917372159380%"
+  },
+  {
+    "owner": "3KQSjspQbM41ngPwmGjuLyGfGLCyzaMMbspp398nKZDw",
+    "lamports": 18870615030792,
+    "percentage": "1.887091906893%"
+  },
+  {
+    "owner": "4rkDe7zpw85XjdQf8AcPsLQyfkuaBCYtgFf4mWzEPbBM",
+    "lamports": 13159925120941,
+    "percentage": "1.316013715002%"
+  },
+  {
+    "owner": "8QT9KnWqkzdCb6XJFHkpf2QvSvLUkoi8gXKhLgpUK7of",
+    "lamports": 12999990000000,
+    "percentage": "1.300019945225%"
+  },
+  {
+    "owner": "owaiEcw2A92x6rhjoJ5i2kgxKsZE2LHkT4fjuL7ARH9",
+    "lamports": 12624907334888,
+    "percentage": "1.262511074391%"
+  },
+  {
+    "owner": "32oe7fw2nnkU88muZX2MXYgQRg1KFVmud1YrMTcCnBMq",
+    "lamports": 12521309379408,
+    "percentage": "1.252151111929%"
+  },
+  {
+    "owner": "Ghjxd4gUCGzcG3guJamyeT468BmDkZYk7prpyP227zY7",
+    "lamports": 12453425545616,
+    "percentage": "1.245362619177%"
+  },
+  {
+    "owner": "EdGSc1sc5LxeBtHiKVqY1h8mWLuwKbGL6A5MCU5N2NAd",
+    "lamports": 12282502870272,
+    "percentage": "1.228270076257%"
+  },
+  {
+    "owner": "8fJ8FZjKwyqtkWCQ8JsdMQkB8ETYF4e8TAzAZQVoXMKx",
+    "lamports": 12128350475782,
+    "percentage": "1.212854588442%"
+  },
+  {
+    "owner": "J5vfBxWGq5u5oJbxcgxXbP31WvGi8GVpgKL7CV1ZDjrc",
+    "lamports": 11999990000000,
+    "percentage": "1.200018334052%"
+  },
+  {
+    "owner": "3WEpNhQa5ZKWPcAfJwwoYcskZRyU39pAYcsieZvEt8VQ",
+    "lamports": 11968197557217,
+    "percentage": "1.196839038551%"
+  },
+  {
+    "owner": "4hGY1Z8zddysU4n6ZYRArueJHJn2aP9U5tS8k8L7fyg3",
+    "lamports": 11834874293287,
+    "percentage": "1.183506497351%"
+  },
+  {
+    "owner": "E1jtqCdEHQffq1CFY5Bgnjkao4vEdDh2Uup3RqCcCmmh",
+    "lamports": 10840509865577,
+    "percentage": "1.084068452488%"
+  },
+  {
+    "owner": "F5BwXazdmZjM5wYFZEhf18P9zdg5ZVAyUwwCVrgwfhsd",
+    "lamports": 10023408621408,
+    "percentage": "1.002357011580%"
+  },
+  {
+    "owner": "AmHXV2KtNqXcyedjpgUVjqzGoLTw9RC1HTbw6HSmiUoM",
+    "lamports": 10000000000000,
+    "percentage": "1.000016111724%"
+  },
+  {
+    "owner": "4Z3CstAiv7Yg5jQkNTST8vg4dAwiA2241iqPsa9n2T6H",
+    "lamports": 10000000000000,
+    "percentage": "1.000016111724%"
+  },
+  {
+    "owner": "6JmyvYoV1LTrDCuK1f6Bm6Wu8KrPp6mnL1oVTcFrn8ou",
+    "lamports": 10000000000000,
+    "percentage": "1.000016111724%"
+  },
+  {
+    "owner": "BMLb9KDprPjwKyPLdQdAynJARnu74Zh4apoH7Ggrz6aW",
+    "lamports": 10000000000000,
+    "percentage": "1.000016111724%"
+  },
+  {
+    "owner": "ExLUroEo3okiMbfvX6X4HaGjf1HEBAnQadcCU5gWV2X",
+    "lamports": 9999990000000,
+    "percentage": "1.000015111708%"
+  },
+  {
+    "owner": "Cd1P2qjwiRnjQweUq5nMFGQCDCV646evibRsSB4HsWkM",
+    "lamports": 9789060998073,
+    "percentage": "0.978921871672%"
+  },
+  {
+    "owner": "62AtSMTt6FnvGPuCkxecFrguVS2aX9vNPhSoWkZsHMDp",
+    "lamports": 8180676522692,
+    "percentage": "0.818080832749%"
+  },
+  {
+    "owner": "9QjfTxDfABdXAxWEAk1FMoWaEksdTVGryJfSLbeNroYS",
+    "lamports": 7836451000000,
+    "percentage": "0.783657725873%"
+  },
+  {
+    "owner": "9ufRZvWx2FynidF3XKRHShB1owe4CRJYiqiymSWTryui",
+    "lamports": 7647703590907,
+    "percentage": "0.764782680859%"
+  },
+  {
+    "owner": "3TPNx6bzAiYGNy6CC2TJR92iU4aPvig79uocwsk4f73X",
+    "lamports": 7333214723777,
+    "percentage": "0.733333287451%"
+  },
+  {
+    "owner": "Bu4VqJmUCXfnUXfjuSgHA1XBmVjwzE9thzYaMitmRpVu",
+    "lamports": 7062345341043,
+    "percentage": "0.706245912760%"
+  },
+  {
+    "owner": "DCBzkdY6XtSMNgqeppLtKoAcTYTNKLf6FVtYy5LZvB2G",
+    "lamports": 6593072171355,
+    "percentage": "0.659317839711%"
+  },
+  {
+    "owner": "2ufmjQpzwxV5jjLfgZBm3qCs1Nt16zSDKA19APLotqwR",
+    "lamports": 6150540323795,
+    "percentage": "0.615063941960%"
+  },
+  {
+    "owner": "5GGGPLkANNgNASJMJYDu9Q4osnQknAD5kN6nEpjSYsW7",
+    "lamports": 5722827240109,
+    "percentage": "0.572291944472%"
+  },
+  {
+    "owner": "dcmm7rJp6gCxkXJe4PVb3YNVjGicZfPBpWKkhBTbJtb",
+    "lamports": 5673524324432,
+    "percentage": "0.567361573469%"
+  },
+  {
+    "owner": "BdKMgpNV62jTTch4Bvc63my9cqe4pHSgTe1x8mEfhWtb",
+    "lamports": 5589309224999,
+    "percentage": "0.558939927841%"
+  },
+  {
+    "owner": "3aC93gGf6ZqwxiAtKZiJ61zmEoXeSA8gfW6fjRhk2ShY",
+    "lamports": 5496300064746,
+    "percentage": "0.549638861961%"
+  },
+  {
+    "owner": "5VemEud9hTgVGUjA74deT63X1dssH7hNZy4wTdFmPvxv",
+    "lamports": 5177494033937,
+    "percentage": "0.517757745229%"
+  },
+  {
+    "owner": "BLAQYaA7duCMQLvCv5gHVtCRbnMo8PW5FAns8s5xJsE2",
+    "lamports": 5043510758243,
+    "percentage": "0.504359201790%"
+  },
+  {
+    "owner": "Aawh4VZRS5RWEXjQvJs7nhXuhG3QoMXy5WxSTfD3eoUx",
+    "lamports": 5002385534392,
+    "percentage": "0.500246613145%"
+  },
+  {
+    "owner": "5zzABDCKZHeCoQDS2MYQvGugGE6r7GDgSUfhELyUPgNJ",
+    "lamports": 5000000000000,
+    "percentage": "0.500008055862%"
+  },
+  {
+    "owner": "H3934Bvg3SgWNXaQQtPZa11BAm65cHykgnMUfTxeepqH",
+    "lamports": 5000000000000,
+    "percentage": "0.500008055862%"
+  },
+  {
+    "owner": "T5Hn7LcbPo7Ftix4dY8u4MGg88vvkjARjpjdedSYDTZ",
+    "lamports": 5000000000000,
+    "percentage": "0.500008055862%"
+  },
+  {
+    "owner": "8YeRcRndyP13wbYjje6TTm9gXVkt8oWwUbF1FS4ExfcA",
+    "lamports": 5000000000000,
+    "percentage": "0.500008055862%"
+  },
+  {
+    "owner": "FEgexWRf1VcaKeRZ4HFHYFsCeWjCssJ8J2SY2MuWgQb",
+    "lamports": 5000000000000,
+    "percentage": "0.500008055862%"
+  },
+  {
+    "owner": "dHG331g6cDYhZt5dUtpFXHqQuzJNV3adazmbVmsbBDm",
+    "lamports": 5000000000000,
+    "percentage": "0.500008055862%"
+  },
+  {
+    "owner": "5RdVyfWgVkDV7VvwCRAHnfF6qNjF5qvwXXfYvQx3eyjj",
+    "lamports": 4999990000000,
+    "percentage": "0.500007055846%"
+  },
+  {
+    "owner": "8WRUYRJhkwfnguVs7VYUmSzFF7e9dyW8ovWPFttxgcth",
+    "lamports": 4688095406851,
+    "percentage": "0.468817094015%"
+  },
+  {
+    "owner": "2xz2EAyLnEd5quoe5W7azGnSo5Bg6vDk8yDXKB8crryQ",
+    "lamports": 4546670006942,
+    "percentage": "0.454674326163%"
+  },
+  {
+    "owner": "CQx35noambGa6izHRfqFDahAm2Ktxubut3UbwpSuBRna",
+    "lamports": 4495665571843,
+    "percentage": "0.449573800476%"
+  },
+  {
+    "owner": "GMzziAstDZGEyKjXNKAidCVn7PJyY1gNKuzp4w5Jft4i",
+    "lamports": 4250000000000,
+    "percentage": "0.425006847483%"
+  },
+  {
+    "owner": "28WAGzYLePbQRxbwE26gk1faKAcExzcDFST4FQ3YsYUy",
+    "lamports": 4238535383599,
+    "percentage": "0.423860367371%"
+  },
+  {
+    "owner": "J3ABW43nGVrY9jv3imVn79axjUyLErjRZUKCqwjAdXQr",
+    "lamports": 4200000000000,
+    "percentage": "0.420006766924%"
+  },
+  {
+    "owner": "3mxe3LkpJAJ8NamgGpcmUStUwJBVwhhB4ZGqMgc6rQwH",
+    "lamports": 4191146633602,
+    "percentage": "0.419121416020%"
+  },
+  {
+    "owner": "5n4sBXCLb7SDXV6dnVmnVvdm49bGviKSYpFTQK5VG11Q",
+    "lamports": 4028504076186,
+    "percentage": "0.402856898233%"
+  },
+  {
+    "owner": "b757kxRi7LjdXVQn9M4RWRczrYdV81BrpgVzMkyP4h6",
+    "lamports": 4000000000000,
+    "percentage": "0.400006444690%"
+  },
+  {
+    "owner": "GamtorLV7adhhDxtDuqBjJnpQaMF33EoxyPtnDsAzRp2",
+    "lamports": 4000000000000,
+    "percentage": "0.400006444690%"
+  },
+  {
+    "owner": "HNFS3RWRPozP8UpAHnpZGgLhsnzSAvQYV3GzDaz8LHzi",
+    "lamports": 3500000000000,
+    "percentage": "0.350005639103%"
+  },
+  {
+    "owner": "2XR3R1ChrbjQkcxYB8RKqZSCe3WfwGV3C9gfmHaJaBHZ",
+    "lamports": 3439065533528,
+    "percentage": "0.343912094280%"
+  },
+  {
+    "owner": "GE3UWrR6ykN4oYdrbBsPHPSMDmvB5Z9Fz6LMhxB6LeSk",
+    "lamports": 3371433316400,
+    "percentage": "0.337148763600%"
+  },
+  {
+    "owner": "6Ee7NNNNCfbSXKD1u81616Qyj1jK34DyWvvH5BCEsMFU",
+    "lamports": 3190432921356,
+    "percentage": "0.319048432473%"
+  },
+  {
+    "owner": "81uThXri2sdherYFbXNozvb7S3pgCeFUx7aSetqpMdSo",
+    "lamports": 3146082871169,
+    "percentage": "0.314613355999%"
+  },
+  {
+    "owner": "68xvLa46JMSRCDd4VyoZoffnDYossvwMRzUTdcpGHV7S",
+    "lamports": 3141071626331,
+    "percentage": "0.314112223441%"
+  },
+  {
+    "owner": "BrShEbogkqbY9cYcJUyTcAunA2WxccQX2w4VGK1PH6yp",
+    "lamports": 3108096595346,
+    "percentage": "0.310814667214%"
+  },
+  {
+    "owner": "Gdi2LMqYHw2o7erphL46KHQpgGDJReBzM6emr6oz7GEd",
+    "lamports": 3059290705681,
+    "percentage": "0.305933999613%"
+  },
+  {
+    "owner": "4daVTCMTXeKBvDuhzyD2eqajHMCwDFQgc9ugw5tLBbbw",
+    "lamports": 3040524727577,
+    "percentage": "0.304057371567%"
+  },
+  {
+    "owner": "6PmNB4zUhBt9k1n7e7Ue9fW5vAVieZLDhrjJ3aRM2j55",
+    "lamports": 3007783286569,
+    "percentage": "0.300783174714%"
+  },
+  {
+    "owner": "FCJLEh548MZ6W15TfbaL4GioxGr2rDKxjLLLxQThC8sM",
+    "lamports": 3001204906738,
+    "percentage": "0.300125326132%"
+  },
+  {
+    "owner": "BoHZvWbppgTjzuMWBoW4biGyVurZKEm7Q8nQ7V63hgp9",
+    "lamports": 3000000635849,
+    "percentage": "0.300004897103%"
+  },
+  {
+    "owner": "5XHR8mEy2jVfJfd8k1PJ4jWaXCTHzhLGjp2KoAzVnWqv",
+    "lamports": 3000000000000,
+    "percentage": "0.300004833517%"
+  },
+  {
+    "owner": "Bv25Z3ZnxtrHXKE9YRH5Re7Fxz3n9KNo7Rd7uFGrMeQX",
+    "lamports": 3000000000000,
+    "percentage": "0.300004833517%"
+  },
+  {
+    "owner": "Gp4WFEGSLohKsCHQA1pNobnfgSjib2ZKgUefA2KsVLFF",
+    "lamports": 3000000000000,
+    "percentage": "0.300004833517%"
+  },
+  {
+    "owner": "Aw2UsSx47renTsfq9kTeeznd7y89bBbTFYZ3YXbjRRpr",
+    "lamports": 2961623408220,
+    "percentage": "0.296167112508%"
+  },
+  {
+    "owner": "BU7nmaBt51cyHkP1r5kfZdST1EHciY3jkvycrPrA1yTe",
+    "lamports": 2926926887643,
+    "percentage": "0.292697404548%"
+  },
+  {
+    "owner": "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ",
+    "lamports": 2890568876850,
+    "percentage": "0.289061544890%"
+  },
+  {
+    "owner": "DF1RKciicKh6gPEU7XpgwRikfJ5dPoC8ZH9ygjo6V9Pj",
+    "lamports": 2862632074792,
+    "percentage": "0.286267819673%"
+  },
+  {
+    "owner": "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi",
+    "lamports": 2830002872541,
+    "percentage": "0.283004846877%"
+  },
+  {
+    "owner": "JqyVnwzk4m5oM3Mme1tw3BHmLkZ4aqNSZyD6cMfMEF9",
+    "lamports": 2765819919192,
+    "percentage": "0.276586448132%"
+  },
+  {
+    "owner": "549yjh8E5F8d9d6b7ahXsjqUfgzQkZX7rq7r81ygWefd",
+    "lamports": 2695524569522,
+    "percentage": "0.269556799907%"
+  },
+  {
+    "owner": "EUMSy1paPA7nxMNoQJ8eTYzcm1rJ7pjBm8LLSPdmv7vZ",
+    "lamports": 2500000000000,
+    "percentage": "0.250004027931%"
+  },
+  {
+    "owner": "2Xiw3yvk9UfWwVy2bhnQjiQo2asdoSi2qwKFeaq9PYWZ",
+    "lamports": 2450000000000,
+    "percentage": "0.245003947372%"
+  },
+  {
+    "owner": "GrqTwc5b6vLfouD7Qjx1tBuWnHsATFU2epJNCxFwLE5o",
+    "lamports": 2416235624584,
+    "percentage": "0.241627455430%"
+  },
+  {
+    "owner": "CwfC5L5yRkXaccv4f5PMxp1ENH8xffMVDjVbZuxvQgK5",
+    "lamports": 2234861380044,
+    "percentage": "0.223489738751%"
+  },
+  {
+    "owner": "5gPagGaLcFSjv951xo24mKFYkZ9e9PZbw3xoSV2uCBHd",
+    "lamports": 2076929645229,
+    "percentage": "0.207696310815%"
+  },
+  {
+    "owner": "FybRkAm1tnBgMhi2c9u2gxozvrNtQDaUmAGiMwCPZSbt",
+    "lamports": 2022025955994,
+    "percentage": "0.202205853432%"
+  },
+  {
+    "owner": "2GVm3oybRWWSePU3SUj4soEzUNPSJ3Te62EbYYxQj8Q2",
+    "lamports": 2017095248157,
+    "percentage": "0.201712774704%"
+  },
+  {
+    "owner": "9w9867gBLAurxTRcdJbtxWjRn4hZTU89FM7E7eTNoLk8",
+    "lamports": 2005551127690,
+    "percentage": "0.200558344058%"
+  },
+  {
+    "owner": "2PZHsXYdFnTsnHLGX3nqFcJdrDstZd9eg7M5QoQgPDsA",
+    "lamports": 2004135756438,
+    "percentage": "0.200416804652%"
+  },
+  {
+    "owner": "BieMNUVgL1JWxhiWfgFPMQXYaQQYBJAbk3bFHKmVnMgN",
+    "lamports": 2001302804530,
+    "percentage": "0.200133504897%"
+  },
+  {
+    "owner": "32MEPRdxAWzuxvYuLQowMZw2yyMTuseVyNqjgtq94TFv",
+    "lamports": 1976947495584,
+    "percentage": "0.197697934762%"
+  },
+  {
+    "owner": "DnQUVL8Ued3UrD1Cf7r2m2ZSgeky6czpoMggJX1PZLqE",
+    "lamports": 1721540536209,
+    "percentage": "0.172156827319%"
+  },
+  {
+    "owner": "GeSophKhB8dje4iBQrzmjrnwo8U3qtxxjTFMEzDPjdHE",
+    "lamports": 1688080064859,
+    "percentage": "0.168810726274%"
+  },
+  {
+    "owner": "Cmms4T1HvgtbLuHFcQES4Ka1gip6PKyR6p4aC8Hz6Bzi",
+    "lamports": 1653625720404,
+    "percentage": "0.165365236316%"
+  },
+  {
+    "owner": "DrjW2z6k8rGbQUc9wJPnaN59dTqaZF2Gzh3yEqFpNnkJ",
+    "lamports": 1650550467519,
+    "percentage": "0.165057706073%"
+  },
+  {
+    "owner": "HQcDh8PhhGr3w7RofruHLi3G2tKa9kcRsUJ2FVucQ6Ri",
+    "lamports": 1648640000000,
+    "percentage": "0.164866656243%"
+  },
+  {
+    "owner": "BbYDDnXYiDLhaptgfPa9V2AWn46YheLnonNauLRCNapB",
+    "lamports": 1617827549999,
+    "percentage": "0.161785361599%"
+  },
+  {
+    "owner": "6u4FjGM9xyHEnKmquWxihbqQjhXDufRD56wux28FTXTd",
+    "lamports": 1582490465299,
+    "percentage": "0.158251596195%"
+  },
+  {
+    "owner": "G8tu3xePunDLm9Uo2LNd7skBrkjH6zgzakADBBZe87Vw",
+    "lamports": 1536597646263,
+    "percentage": "0.153662240350%"
+  },
+  {
+    "owner": "5LzCqEQdbYfxknbQKV3gdHW9DxcCz8vz2r4CT1CuQi6r",
+    "lamports": 1500775488727,
+    "percentage": "0.150079966881%"
+  },
+  {
+    "owner": "BNSzAEw9wx2NNoNE3tpmcnpN6fqCN46pL4Cgz642k6ap",
+    "lamports": 1500669852146,
+    "percentage": "0.150069403052%"
+  },
+  {
+    "owner": "6CaPqnYHScxnQu1zzgj8MBXYv3cc7WP9skMMso6RUGYy",
+    "lamports": 1500000000344,
+    "percentage": "0.150002416793%"
+  },
+  {
+    "owner": "GWbbUvEuh77WG6iauUDjKbeZj16Nt1Ns1V38R3BAFfka",
+    "lamports": 1490782402882,
+    "percentage": "0.149080642196%"
+  },
+  {
+    "owner": "JALSqbN16eX5U7vuR7pw8VEgFZb2mdXrdJZtmYJKTynz",
+    "lamports": 1441503858612,
+    "percentage": "0.144152708372%"
+  },
+  {
+    "owner": "8B2JmRr5tdvxrcpPv234CnqvzK45SimwLGqpWeEeP7Rh",
+    "lamports": 1440537592304,
+    "percentage": "0.144056080185%"
+  },
+  {
+    "owner": "Bxf3XgAV8bgRkAvLPxgZXRspardWbYVNc3T2GHvFhmGj",
+    "lamports": 1359255567392,
+    "percentage": "0.135927746734%"
+  },
+  {
+    "owner": "n3Q4kFd8EWmXk9fJxwfD1XkDYzUp1jQ6Y2Jmg53gazG",
+    "lamports": 1350000000000,
+    "percentage": "0.135002175083%"
+  },
+  {
+    "owner": "66Whuhhd3vV15RKeUASksvhEpxEJdibg77AtXZhY2fjx",
+    "lamports": 1344442383858,
+    "percentage": "0.134446404514%"
+  },
+  {
+    "owner": "AuHL3vyzfcUiqmjJMUkNnH9CWDb66bp6KkCy9Dt9xAMh",
+    "lamports": 1312893902937,
+    "percentage": "0.131291505592%"
+  },
+  {
+    "owner": "41aUQ3Q5qhMJhewU3vK4uyLfAbxXrqyb9mRKkUjPk9yz",
+    "lamports": 1301379703857,
+    "percentage": "0.130140067133%"
+  },
+  {
+    "owner": "ATTMDv7LxWTwwXELhHxJQRv3TayikJiYXz71nQGYTrwS",
+    "lamports": 1289085068084,
+    "percentage": "0.128910583747%"
+  },
+  {
+    "owner": "2fRCqc84E8K4gQgRHLwu8YqhKWvePBLhuLH1YQgNtUZm",
+    "lamports": 1275624761157,
+    "percentage": "0.127564531367%"
+  },
+  {
+    "owner": "6c1HHnWvPw4T2Tb3ykJZeSVp1exMmjK6Y1YpwELWNpr7",
+    "lamports": 1250000000000,
+    "percentage": "0.125002013965%"
+  },
+  {
+    "owner": "FP1V28kZHxkGtiHgc4EDn2W2CDD3ns5GFR7BZ52m4n6t",
+    "lamports": 1250000000000,
+    "percentage": "0.125002013965%"
+  },
+  {
+    "owner": "5W5vnVSX7NjaghpfMf1jyvtcQNyRffk7hDZS67rKXQpW",
+    "lamports": 1225603579514,
+    "percentage": "0.122562332610%"
+  },
+  {
+    "owner": "GzuFDx92H5wxfSB4W6HWkpL4r1bx7nYkKTEYSFpB9H6Q",
+    "lamports": 1216398547818,
+    "percentage": "0.121641814610%"
+  },
+  {
+    "owner": "EcAaFpDAn2NjtsEfAuSvUjc1Hjoid977dwKWqq5JEzhh",
+    "lamports": 1197605700663,
+    "percentage": "0.119762499616%"
+  },
+  {
+    "owner": "DrxaffnTCt851FmkEwobDksmgXSU2jYNwpFkgtdJfoue",
+    "lamports": 1193395721039,
+    "percentage": "0.119341494870%"
+  },
+  {
+    "owner": "5gimqq76JPfJiE2XuCvUFc4sTXhnQf68hZMKH6wqYPNi",
+    "lamports": 1183405654997,
+    "percentage": "0.118342472170%"
+  },
+  {
+    "owner": "H2kT8rcbHuLutaJVTTy8oftEgcZ48gFCjmyTEqCqRdDi",
+    "lamports": 1173220623704,
+    "percentage": "0.117323952631%"
+  },
+  {
+    "owner": "2TcM7W8XYEWGfMs1XrPhHYbSj1BC9LExTtz9bPxhWeJk",
+    "lamports": 1150000000000,
+    "percentage": "0.115001852848%"
+  },
+  {
+    "owner": "GcGvo1qLT5BXjjRZDCSpduT863EycUy2XE2rmHZVVKBo",
+    "lamports": 1135319233220,
+    "percentage": "0.113533752517%"
+  },
+  {
+    "owner": "7hRKMffsVg3s5Bbj4E5Bm81PWfB5CodW7tMdMrLAZPY9",
+    "lamports": 1115525985573,
+    "percentage": "0.111554395862%"
+  },
+  {
+    "owner": "Fcg2C7gF7tPc9CZ4Qi6yqUjzaRaed9xfhvLXJD3sLLqr",
+    "lamports": 1108323426391,
+    "percentage": "0.110834128339%"
+  },
+  {
+    "owner": "BbZmuBVheCrFvHKdtNq551Zvifna1v9Xp2TyyT4WTgq3",
+    "lamports": 1090384223745,
+    "percentage": "0.109040179171%"
+  },
+  {
+    "owner": "D44ty7komU2SVCo4TDmi7hGC8Qk6X58REYTobv9TCYsz",
+    "lamports": 1087772750012,
+    "percentage": "0.108779027591%"
+  },
+  {
+    "owner": "9bcTWAxxftSoU8C4GhkNQnU2BrYx8Ufy9vgVdN1QGKNm",
+    "lamports": 1078398171783,
+    "percentage": "0.107841554664%"
+  },
+  {
+    "owner": "FmfRxxJR5DhrYDrfKzSFcmJAJpkg6rQsGjxb6DibdN3",
+    "lamports": 1061611652813,
+    "percentage": "0.106162875721%"
+  },
+  {
+    "owner": "B2u7eMGrfzZ7SMLQuWSSyybSGGKFGreBwXio6RM1cP5y",
+    "lamports": 1058510705449,
+    "percentage": "0.105852775988%"
+  },
+  {
+    "owner": "1YtWWZw9e5aKDh94ncU92PVHpxJGszpzF9ghMeJeV8s",
+    "lamports": 1038950392715,
+    "percentage": "0.103896713200%"
+  },
+  {
+    "owner": "8zSEuNci4ti6zEkoiyPgzht2sWqJqRkgCEwwyzcfXDim",
+    "lamports": 1032034830148,
+    "percentage": "0.103205145801%"
+  },
+  {
+    "owner": "FaFsj2s7rrPzi2x3rteWocevvo7oQtxUdXdXrgA7YS43",
+    "lamports": 1031081995910,
+    "percentage": "0.103109860842%"
+  },
+  {
+    "owner": "HVTdiGe9RCurtx6SMN9X3JDrhoVHiBnyszcKh1azrZbN",
+    "lamports": 1021000000000,
+    "percentage": "0.102101645007%"
+  },
+  {
+    "owner": "CXJgJaNYoijShTV7b4QpcvqmL7NALqrzcx8fzQxQeN9C",
+    "lamports": 1020071191099,
+    "percentage": "0.102008762620%"
+  },
+  {
+    "owner": "8iYiiRP1Lxi9kofoJ3PfqTFHftKavmVmARfGYNC1n8kb",
+    "lamports": 1018574320063,
+    "percentage": "0.101859073105%"
+  },
+  {
+    "owner": "GCR28KAA3KMsuKCtMwapLNerFxCGTxTbD9NR15Hkj6QT",
+    "lamports": 1012436393412,
+    "percentage": "0.101245270551%"
+  },
+  {
+    "owner": "UPNBvqVGY9zizdvbNFnoC71XH5YZCePRfrSCNWrdPCP",
+    "lamports": 1010186056909,
+    "percentage": "0.101020233275%"
+  },
+  {
+    "owner": "ATKqrZGRNv7aBNuoCVbRgbST7EjpiUM9Uahz2hHSkaXi",
+    "lamports": 1003821070256,
+    "percentage": "0.100383724354%"
+  },
+  {
+    "owner": "CgJQUYuXTnVTR7TQuF5NrcPBQurn81Fk4FX2UbiRU64D",
+    "lamports": 1003403853774,
+    "percentage": "0.100342002034%"
+  },
+  {
+    "owner": "9utAocoBsRnHDHjma3iSpqe8ks2HLPWcvHKyAafvAUuW",
+    "lamports": 1000050352724,
+    "percentage": "0.100006646526%"
+  },
+  {
+    "owner": "CJYQsyQTxqLJikpM3JThcAFkgEWhA59afRWJqVSy4esh",
+    "lamports": 1000001296533,
+    "percentage": "0.100001740828%"
+  },
+  {
+    "owner": "FBsAa3Y6LvRXM92s211jV6w6JByMd291MueNYM3fRcFf",
+    "lamports": 1000000000000,
+    "percentage": "0.100001611172%"
+  },
+  {
+    "owner": "4imj61KdcWCtWgh4n94M8CsWiSnXrqQTJgXrye2xUmKu",
+    "lamports": 1000000000001,
+    "percentage": "0.100001611172%"
+  },
+  {
+    "owner": "C6D7BYzYkqiSqX7xTw9TvCtdabZghzmTLgJ5G6ZvjRHr",
+    "lamports": 1000000000000,
+    "percentage": "0.100001611172%"
+  },
+  {
+    "owner": "6YvKrz3ffMBtdmEddBBYWxcm4hKgJZe9LcCdHVTsQLLM",
+    "lamports": 1000000000000,
+    "percentage": "0.100001611172%"
+  },
+  {
+    "owner": "Fqd9AvFDpBPiNzJQuK7nhWTJQES1SXyhzRzXxyS85Zoh",
+    "lamports": 1000000000001,
+    "percentage": "0.100001611172%"
+  },
+  {
+    "owner": "BrnZ9twLLXmVtC3sgHMEyupk4F5p5FjftE55ouvy9u4",
+    "lamports": 1000000000000,
+    "percentage": "0.100001611172%"
+  },
+  {
+    "owner": "BsjPsjqkmJsjKGox4tKhKKoo2fYMuS2wW8GWMC2ewkZS",
+    "lamports": 1000000000001,
+    "percentage": "0.100001611172%"
+  },
+  {
+    "owner": "6AqXjwS4d1PnpWP7Zyd9FZNAb485rUFQM4G71EgcB9Tg",
+    "lamports": 991719065762,
+    "percentage": "0.099173504407%"
+  },
+  {
+    "owner": "J9XtGAZyZ1UDsx3fKPZzpN4UND2FmyWptKTFNWDeLjfd",
+    "lamports": 990046311492,
+    "percentage": "0.099006226284%"
+  },
+  {
+    "owner": "52vdfEgaeyTviDJDRgs7jCojBuJVBDV6C5UGNWfedFaZ",
+    "lamports": 985503499559,
+    "percentage": "0.098551937772%"
+  },
+  {
+    "owner": "XfCY6ZjCH3udnD5sr3UimL1eZgGL5UYYWTyhXqbZyT7",
+    "lamports": 982757477550,
+    "percentage": "0.098277331147%"
+  },
+  {
+    "owner": "87cLjG22JfkvYFbCCBGdos6663g7JRvaiPNYVM6UnN9f",
+    "lamports": 980354528381,
+    "percentage": "0.098037032358%"
+  },
+  {
+    "owner": "Eh3eoyD1BJDfW5RFokEDWbaek5D2PNesBfzonkfXSQrW",
+    "lamports": 944489347044,
+    "percentage": "0.094450456440%"
+  },
+  {
+    "owner": "DboAtkYNrxE4KsVEG8tZnLa1ZpE6j13jrPQ89bgkkG9V",
+    "lamports": 940438951689,
+    "percentage": "0.094045410378%"
+  },
+  {
+    "owner": "ForQYxfhLMv3ieCWQYxMWwACZZTp16rBUe3r8cwRLnB5",
+    "lamports": 916695148573,
+    "percentage": "0.091670991811%"
+  },
+  {
+    "owner": "HUaTXxRUc19svyVCjDFqoBhHqVgWHfNA7rHtvsEnEXyq",
+    "lamports": 905550914952,
+    "percentage": "0.090556550494%"
+  },
+  {
+    "owner": "GS7pnt6TYccywpECPt6Af7RvE9R1WAdaMPF8CsED2wMz",
+    "lamports": 903136953178,
+    "percentage": "0.090315150427%"
+  },
+  {
+    "owner": "45Le37hro2XiBMdvBgZx8uBREQAh8CbGifdRxmy95xBb",
+    "lamports": 901774541117,
+    "percentage": "0.090178907026%"
+  },
+  {
+    "owner": "3SCvv1EnKQNvqJ7n5nbrKMfiT5twsq34bP6RkLNki89w",
+    "lamports": 900000000001,
+    "percentage": "0.090001450055%"
+  },
+  {
+    "owner": "4FjWueoprSTiQSDm5pvcJqr7su5qMBtj2NVtBo2XUeLP",
+    "lamports": 893023816202,
+    "percentage": "0.089303820436%"
+  },
+  {
+    "owner": "HqqBSvST8SKqYkFzrz6TsgxhkoYMDwN7PWoAhXghBad5",
+    "lamports": 862144568180,
+    "percentage": "0.086215845882%"
+  },
+  {
+    "owner": "BHrBAy7G1Nq7q2yDD6bYFEs3ccCvwszFNTMhbtmm6Kxn",
+    "lamports": 850000000000,
+    "percentage": "0.085001369497%"
+  },
+  {
+    "owner": "8VKR4HFMbog7rP8TVJ4U3EWniDaxjtbbk1bf3FDAakbG",
+    "lamports": 832338705978,
+    "percentage": "0.083235211639%"
+  },
+  {
+    "owner": "5B5qLUTSxLuDcXGWvqEpBtBtB7z6CBA6ivydLqGe5g3n",
+    "lamports": 827396349529,
+    "percentage": "0.082740968031%"
+  },
+  {
+    "owner": "4oS8HfZrHLBo25svW7cY9GSqLEUG4GPutGpPWJpCzH9P",
+    "lamports": 821792354476,
+    "percentage": "0.082180559497%"
+  },
+  {
+    "owner": "4oVSWTpgC28YsECK6DNgC6XwzLrGwGqq39TGD87EwdDY",
+    "lamports": 811319574792,
+    "percentage": "0.081133264655%"
+  },
+  {
+    "owner": "H5y3ndXvkPAEC9wPcS2MsXaXDnBBCyyTGKTbgVMxjEZS",
+    "lamports": 808710519135,
+    "percentage": "0.080872354886%"
+  },
+  {
+    "owner": "AUggYqJNJKA9j8VMjY5CmAJzYxjeSSBPFqBu8aic31ib",
+    "lamports": 806992920074,
+    "percentage": "0.080700592212%"
+  },
+  {
+    "owner": "5N8nmbwLAEPFPh6KDaQFh2u1X8oozpfNsAi88mXNgGqS",
+    "lamports": 801822404655,
+    "percentage": "0.080183532340%"
+  },
+  {
+    "owner": "7dAoR9y1qDdLhpN1AxUhHteud91XEyPGhZZLRrdhSSND",
+    "lamports": 800936751450,
+    "percentage": "0.080094965592%"
+  },
+  {
+    "owner": "5EAqH87NoyXJoQGU84i15b5iTVHGjKBfvYrdpoFWPtpe",
+    "lamports": 800000000000,
+    "percentage": "0.080001288938%"
+  },
+  {
+    "owner": "CzS1PJ1NJmfJ2x2CSunVCAXNwurfJo3KXXi2c9jYmLpo",
+    "lamports": 785061557944,
+    "percentage": "0.078507420664%"
+  },
+  {
+    "owner": "BeipmSDVEq2YXrv4P864Q25apvQnsXtU9ZEfnx4TMRRq",
+    "lamports": 776862895569,
+    "percentage": "0.077687541217%"
+  },
+  {
+    "owner": "JAnWo2CSsBotm1u7xyeb9ntKaRYevcNWtk1yy6cjjmRE",
+    "lamports": 755742692094,
+    "percentage": "0.075575486841%"
+  },
+  {
+    "owner": "HmkFGNCvJgVN2MVKQ1vDKCjUSR2offAbEmcEDx7DgSUF",
+    "lamports": 752960679956,
+    "percentage": "0.075297281145%"
+  },
+  {
+    "owner": "2fvY7eqYs7ub2s5ijtHshLxV7vHMMiPjgGB9WfJCtM4M",
+    "lamports": 740914517652,
+    "percentage": "0.074092645506%"
+  },
+  {
+    "owner": "5PVZmNfrRnqWdqvwSTTUa6CRiDdn5Z1XHWmV5H1EJPAX",
+    "lamports": 716657104430,
+    "percentage": "0.071666865101%"
+  },
+  {
+    "owner": "HyNiuntjo51d5paTG7rX5XLLAAi68GQMN1STwSmvna4F",
+    "lamports": 711294110432,
+    "percentage": "0.071130557061%"
+  },
+  {
+    "owner": "GkLyefbpd3h5w7MF4yNNNH5vVy4f54YbmLzoC2Ne9XbD",
+    "lamports": 708291407228,
+    "percentage": "0.070830281902%"
+  },
+  {
+    "owner": "HUncd7rgRU5DtKKYEg8Pa3KxaJ6YdyyNV4UquKmMqmEE",
+    "lamports": 700138226952,
+    "percentage": "0.070014950739%"
+  },
+  {
+    "owner": "4RqN1V8b322EwoW6AXS5NYAxWGcA41JSeECBCDQpYAGf",
+    "lamports": 682345411717,
+    "percentage": "0.068235640548%"
+  },
+  {
+    "owner": "FVQ9tMDxguSAvjN2YNTxbMXgv11CtRzWfX8aYRtquVqT",
+    "lamports": 675706510498,
+    "percentage": "0.067571739729%"
+  },
+  {
+    "owner": "6MFud5wdrjDUUMkKs1XRdneAXsRV7zzyVNN8BT5MCXR1",
+    "lamports": 666116960899,
+    "percentage": "0.066612769319%"
+  },
+  {
+    "owner": "7iHFGgcbsiXqFh1PNj5fjmheWSTEhuj27N2jx2RZh1fQ",
+    "lamports": 660716905976,
+    "percentage": "0.066072755126%"
+  },
+  {
+    "owner": "BaR7BhFifMWSz57buFh5TuS9VbmsbnnENj3kDDeoFfF1",
+    "lamports": 614310083524,
+    "percentage": "0.061431998112%"
+  },
+  {
+    "owner": "HCFKPTZ4dirffbiM4JYprg9BRtL2js3bH5gNw98J7GiF",
+    "lamports": 600000000000,
+    "percentage": "0.060000966703%"
+  },
+  {
+    "owner": "7BmimcVGBFSgoT2eYwL5rvPYStmuRj9UtMqbJ4D4xLbG",
+    "lamports": 579258863370,
+    "percentage": "0.057926819623%"
+  },
+  {
+    "owner": "3mCzzAX1wPqY6eYx5piihJic6cmxJkB74GwqHypQwrXs",
+    "lamports": 564222532763,
+    "percentage": "0.056423162336%"
+  },
+  {
+    "owner": "9rxbxAEd9jAvNpVn9BPEZJ8uGdoqMNWSnwUCLZaAfDB7",
+    "lamports": 557117765298,
+    "percentage": "0.055712674143%"
+  },
+  {
+    "owner": "EqAyLKYVmTq5XNvDwThjm4e8P49AJeBDfDRWQQ1aG6TF",
+    "lamports": 549707433869,
+    "percentage": "0.054971629060%"
+  },
+  {
+    "owner": "A8JDQTCxJwwm2Es246NqJCmTUcu1YGNbADqLG1nYBwUF",
+    "lamports": 549059222761,
+    "percentage": "0.054906806905%"
+  },
+  {
+    "owner": "CsxkpRGgenydShvWxXBr32dkqS5dkq4u7fod53JvW1qV",
+    "lamports": 543562549291,
+    "percentage": "0.054357130702%"
+  },
+  {
+    "owner": "63QCiAwr4Kvh9TkFAYZKk1yG292d9zLSBWx25wu6SMVk",
+    "lamports": 528747243615,
+    "percentage": "0.052875576264%"
+  },
+  {
+    "owner": "BbwSE4QAY2KLzZvVEcu2xkSeADLfgYMP2TLEwbZ6Bbup",
+    "lamports": 521748265166,
+    "percentage": "0.052175667143%"
+  },
+  {
+    "owner": "Ezjgd9m9arnG41Jgh1LcLx59fZFAZ8G5yQ6M1gedQFqb",
+    "lamports": 511878109028,
+    "percentage": "0.051188635627%"
+  },
+  {
+    "owner": "7y4Mz7yM7DtcL9jPkEMDrmVojNXGzVQgHhVKAcgo2A7v",
+    "lamports": 505286809050,
+    "percentage": "0.050529495009%"
+  },
+  {
+    "owner": "BMzGLf4GNWGqaZv2E3NvUZarJunPN9VLdTjwNNn2ftUk",
+    "lamports": 504878609509,
+    "percentage": "0.050488674397%"
+  },
+  {
+    "owner": "Gux28LY6opwsfFE3Yx4WbN8BJGdZrokGnuK2fLqML8oX",
+    "lamports": 501387323313,
+    "percentage": "0.050139540153%"
+  },
+  {
+    "owner": "zJfRDMDmrEhh3QjGwkAwMRhva8v3sgT4avvWuh7po5Y",
+    "lamports": 500798237515,
+    "percentage": "0.050080630624%"
+  },
+  {
+    "owner": "4fiJednAKe63Vsnj5JdkjvfDJ8DLcwpiYnCpQmGK8eLn",
+    "lamports": 500473780515,
+    "percentage": "0.050048184401%"
+  },
+  {
+    "owner": "3o5Q8QEaZEzeT7xMsB6odMKiwxoQJXq9pxhAiiYEJXDj",
+    "lamports": 500000519894,
+    "percentage": "0.050000857576%"
+  },
+  {
+    "owner": "FxkN2UsSKgwDuMnPiyZYguUtQjbDLDRfmiRN5tFofH9D",
+    "lamports": 500000000000,
+    "percentage": "0.050000805586%"
+  },
+  {
+    "owner": "4MvKazZsfTAo3ut9wHaCtxoDbbeUAJbfXQTAKpVEHrwX",
+    "lamports": 500000000001,
+    "percentage": "0.050000805586%"
+  },
+  {
+    "owner": "CbrLokD85kRRBeQmRq3kD6diiSM1U8LT9b4WiN5arNVb",
+    "lamports": 500000000000,
+    "percentage": "0.050000805586%"
+  },
+  {
+    "owner": "DBjDJ1NBtfPTBhESZnjzU5HbhrHEaVYxJM3KZsJfBS9P",
+    "lamports": 500000000000,
+    "percentage": "0.050000805586%"
+  },
+  {
+    "owner": "XAeHmZnWhHgL89vVTcbgrgjCAkS7g7bGvjTmMJAzq27",
+    "lamports": 500000000000,
+    "percentage": "0.050000805586%"
+  },
+  {
+    "owner": "GDMs39o695mGuiR8ZWtLQuEDGQys7bguUVcJABvYZxdw",
+    "lamports": 500000000000,
+    "percentage": "0.050000805586%"
+  },
+  {
+    "owner": "GtjLLMZTEMoJJXmxtXujL1qb1mD9R4CamXFNYomT6CtB",
+    "lamports": 500000000000,
+    "percentage": "0.050000805586%"
+  },
+  {
+    "owner": "ArFcpgPc2BnMKXujfmUw3uzjVPS5J43ZcaXZtmcRqw9W",
+    "lamports": 493524720803,
+    "percentage": "0.049353267234%"
+  },
+  {
+    "owner": "5LTummE2fL78rvxrWLVX6YBcmnFQS4rd1gjE2Ty2Pm4v",
+    "lamports": 492846223123,
+    "percentage": "0.049285416373%"
+  },
+  {
+    "owner": "6jsk54wYovi63MhzYCbWezq1wtF6ZpPM1Z94U5inyXNQ",
+    "lamports": 492384747383,
+    "percentage": "0.049239268055%"
+  },
+  {
+    "owner": "4rD7zGsr7Vs9Mcb9ZECfjPX51FqiYd9Bnqnd1wDuyC8b",
+    "lamports": 483415468362,
+    "percentage": "0.048342325702%"
+  },
+  {
+    "owner": "CFqWuuQtAr6QFV5zY7XfDrti6kqacyKx8ddWLphdiEen",
+    "lamports": 482204376033,
+    "percentage": "0.048221214518%"
+  },
+  {
+    "owner": "HQeprzvpiTbkgHoBodj7D8yMHZA8T6j8WBpaqAvdzK8n",
+    "lamports": 476469150446,
+    "percentage": "0.047647682719%"
+  },
+  {
+    "owner": "5jjYf2nXCJNncWHHq7QgGzVK9rhUgr3GmoVV8zocmK83",
+    "lamports": 475885740033,
+    "percentage": "0.047589340737%"
+  },
+  {
+    "owner": "CbTFBvcex9vuNhYsB4c4mJrRUzqXKeWaFWZ9ud1a8rh9",
+    "lamports": 470812302151,
+    "percentage": "0.047081988775%"
+  },
+  {
+    "owner": "8itixPFhHhJSxkyyK4Qr2JcRb9yQjx1WuqQWihVRcEY5",
+    "lamports": 462449238125,
+    "percentage": "0.046245668898%"
+  },
+  {
+    "owner": "36fFh79RkAGfwrXpE6MMJBD8YGPPmcH4uVzeSi5Nbcbd",
+    "lamports": 460990380663,
+    "percentage": "0.046099780801%"
+  },
+  {
+    "owner": "4dXMseycpHYBzgP7FbL8Uiu9FgFZuzH4VfSC7YoyozCn",
+    "lamports": 459057922913,
+    "percentage": "0.045906531913%"
+  },
+  {
+    "owner": "8dXz3F3poW3PwUBtrEkXm7MCKjxEKCqJht2nwkGcvtkk",
+    "lamports": 440040686233,
+    "percentage": "0.044004777605%"
+  },
+  {
+    "owner": "HFygDZK1jvseAXS3QPZ4bGn28PWEHQfYqpnmPvqFCUmV",
+    "lamports": 435027424289,
+    "percentage": "0.043503443333%"
+  },
+  {
+    "owner": "A1pdQMCZVLwUkV5b5MSD1agnbjuR9TZEHBDCQrkWoBeH",
+    "lamports": 433766521189,
+    "percentage": "0.043377350992%"
+  },
+  {
+    "owner": "3Y1TdW6ixV3H5RSkxQARuLdUbE37Z7QTNBeBKJTSkYrK",
+    "lamports": 430395937673,
+    "percentage": "0.043040287209%"
+  },
+  {
+    "owner": "3YwmdwtixdzA3FwmKetRpGu7VQDTrSsDk4APiFHxMhUa",
+    "lamports": 426487732290,
+    "percentage": "0.042649460374%"
+  },
+  {
+    "owner": "BuuSYapBipJELgv3XSMqGSE2VLVTWtsbAxqn4tkPSJCZ",
+    "lamports": 424623038515,
+    "percentage": "0.042462987992%"
+  },
+  {
+    "owner": "cmBw5mZgoodbu6aA4h23yTCVin6VovZq5Kp6zXAn2xf",
+    "lamports": 420518735822,
+    "percentage": "0.042052551110%"
+  },
+  {
+    "owner": "4iCLyqL1EZwt2exE2nFxz4FD2PhwvVuQqsEZuYJXBEJE",
+    "lamports": 415001223801,
+    "percentage": "0.041500791019%"
+  },
+  {
+    "owner": "E2k4R9CGeixamCM76ehfNJci9PGD74QwyQSdFKhYSTD9",
+    "lamports": 413929384109,
+    "percentage": "0.041393605322%"
+  },
+  {
+    "owner": "4PL4vd21PzgNbiY2VBNd7CLigTHmhVqV7gReSxeT34uP",
+    "lamports": 412311518914,
+    "percentage": "0.041231816196%"
+  },
+  {
+    "owner": "DockuGgo2UiWfCuV8YiDyD62nj2etVsLrPHbVUK7hwxs",
+    "lamports": 410179372814,
+    "percentage": "0.041018598151%"
+  },
+  {
+    "owner": "D5jx4wmxuPz18hqmgpCMLGVq3uSksCafCp5xjVe1nw8p",
+    "lamports": 408893610259,
+    "percentage": "0.040890019824%"
+  },
+  {
+    "owner": "51Qf5RBTBC66mZqpsnSXaC7pofxDJ8X4UWQNtpTsENJP",
+    "lamports": 407234000000,
+    "percentage": "0.040724056124%"
+  },
+  {
+    "owner": "GB5g2xSgMpNN56H9cFVLp52bRwR38YTpSGEL2KBq1eMp",
+    "lamports": 404976716566,
+    "percentage": "0.040498324144%"
+  },
+  {
+    "owner": "2K22Anr5TejKAHvx24FXJEAfGYxCZJ83eX1bbt3hBdBn",
+    "lamports": 401791747512,
+    "percentage": "0.040179822107%"
+  },
+  {
+    "owner": "y7VGjkWKmzsh9cU4ZbRhoWkRfPGAazBV34FbNWLpM5j",
+    "lamports": 400000184327,
+    "percentage": "0.040000662902%"
+  },
+  {
+    "owner": "7MoQGpLcVjDnYEYFSVc6sWeQjQqCaM8LnXBmcfc43o5H",
+    "lamports": 400000000000,
+    "percentage": "0.040000644469%"
+  },
+  {
+    "owner": "BnELXXs56gSYm31HjBm9z3U1iqv7B3DkFTcLDCWxtbwL",
+    "lamports": 400000000000,
+    "percentage": "0.040000644469%"
+  },
+  {
+    "owner": "4KXNcnKRq3CfVkXTLQj7jat56MqHE972dao35JYWvQZY",
+    "lamports": 400000000000,
+    "percentage": "0.040000644469%"
+  },
+  {
+    "owner": "2DVMUBtMKWULfSyS8kxp5C2d8mnPaegCMDpwJLv7YJfB",
+    "lamports": 400000000000,
+    "percentage": "0.040000644469%"
+  },
+  {
+    "owner": "6B9udzpFcEQWzdrVRMHXtqrCtaVFttJ5c7tC24ZgK4Py",
+    "lamports": 398687999996,
+    "percentage": "0.039869442355%"
+  },
+  {
+    "owner": "J5VW6LAAt33DkR33ALVAevqrSj1EeT6bK9kfdF3KzrcH",
+    "lamports": 391958230198,
+    "percentage": "0.039196454532%"
+  },
+  {
+    "owner": "21tv8NK3jKLfnzKTRhn8jd99MPpUubX6LCvfSNZNkKKq",
+    "lamports": 389360079524,
+    "percentage": "0.038936635279%"
+  },
+  {
+    "owner": "51nYMHnSPgSxipziHz7i5sACH3ZdEZckWQgh3NGkLKA5",
+    "lamports": 387618411598,
+    "percentage": "0.038762465680%"
+  },
+  {
+    "owner": "DyqqToFKNcMrkBAhahg77hExrc8ZavdNsL2TWWgUEw8V",
+    "lamports": 387379533736,
+    "percentage": "0.038738577509%"
+  },
+  {
+    "owner": "GVxoTa25xk6ohWCjQarHs5fHjfgKkWT3STux5tz2sdNF",
+    "lamports": 385546588853,
+    "percentage": "0.038555280067%"
+  },
+  {
+    "owner": "FKn6k5ZgpyDcDvcKvkCQSSqntKjbAjAVE2Mo8tQcdboo",
+    "lamports": 383123725742,
+    "percentage": "0.038312989853%"
+  },
+  {
+    "owner": "6miCkrycqGazW1MeQ1mkZog48qgD5uq1NK5f8ZAgXc5T",
+    "lamports": 378493718252,
+    "percentage": "0.037849981644%"
+  },
+  {
+    "owner": "Ceecv544K1bupeQv5nyL6YgkVNTEDsJmSSFChLGrBUdi",
+    "lamports": 374104961666,
+    "percentage": "0.037411098914%"
+  },
+  {
+    "owner": "5gqNmuvNQ9qsrcnWtu7WY3S8t8qBpJmaEciNYvuea27c",
+    "lamports": 373019393814,
+    "percentage": "0.037302540380%"
+  },
+  {
+    "owner": "Dw4UGeT26N8B9C6RCNRLn4W84A5nsFEaLYUvUUhzi4ZG",
+    "lamports": 362073188958,
+    "percentage": "0.036207902258%"
+  },
+  {
+    "owner": "CXhpJB4tkm5HU8BDZsPFXESqhK5FSk9ACA24S348uHug",
+    "lamports": 358871677966,
+    "percentage": "0.035887746001%"
+  },
+  {
+    "owner": "9RpMdkFvny3hVSbuRaYvP2ui1HwbiuQ63RrXBYVU6XnM",
+    "lamports": 357498933523,
+    "percentage": "0.035750469345%"
+  },
+  {
+    "owner": "E2VbAxyeJQP8i9ZfibnBKqkByE2TsoABHBzdtXyHSsDx",
+    "lamports": 356407668417,
+    "percentage": "0.035641341076%"
+  },
+  {
+    "owner": "H12NzMVXhwe3kKmYUnpBzphwQ1yboz5hsY95a494c5Me",
+    "lamports": 355767157783,
+    "percentage": "0.035577288981%"
+  },
+  {
+    "owner": "G7PMA4GcpmuKbSX1xpzVU8AyMz1BofWGHntyJYztPQZL",
+    "lamports": 351239950470,
+    "percentage": "0.035124560955%"
+  },
+  {
+    "owner": "9DWhsLbTuoyi9tzj1NKsJCSivgZmk9HFagumaffpWqFc",
+    "lamports": 350599968395,
+    "percentage": "0.035060561716%"
+  },
+  {
+    "owner": "G15eaThPjpVCsyYFA3MTAhGPZgtzvkFhZrtP8Q78c4QP",
+    "lamports": 350069358219,
+    "percentage": "0.035007499844%"
+  },
+  {
+    "owner": "FBP1jQnQfCwcAHJdLQUFszgsE7eeXz9GHWvUfLsjsyhU",
+    "lamports": 350000150469,
+    "percentage": "0.035000578957%"
+  },
+  {
+    "owner": "FnsuZtSFQRdcd85GpAoFuJQcDcSYVARbzEyYRMafjvSy",
+    "lamports": 350000000000,
+    "percentage": "0.035000563910%"
+  },
+  {
+    "owner": "F1NPgegeV2g1DwT6KVogkCSFTQkwPYsMNG49ojmnR45b",
+    "lamports": 346541139211,
+    "percentage": "0.034654672259%"
+  },
+  {
+    "owner": "2ghtZmFaP9tjK4wxCnf9mywgPvVwfW5DQtFDTfbYHFbG",
+    "lamports": 346239540403,
+    "percentage": "0.034624511892%"
+  },
+  {
+    "owner": "BhBJkP1DC8QTLDKQSNrShw3qjVnaB6qxjCyhfRFAdmtU",
+    "lamports": 346239540403,
+    "percentage": "0.034624511892%"
+  },
+  {
+    "owner": "CpRQtrEAa8Azhmo5Zpu7MNn787Kywh5URmK1hEb25Vhe",
+    "lamports": 345533131882,
+    "percentage": "0.034553869902%"
+  },
+  {
+    "owner": "C6rrUNwvVVoCzSrSn75gdvpiZNLKY3Hu1JzWzBwpDQDQ",
+    "lamports": 344805925843,
+    "percentage": "0.034481148126%"
+  },
+  {
+    "owner": "G7HUxtKzNJT99pUTLX8GkE4xr1MQhGnoQGyBSNcUAMMN",
+    "lamports": 344093608745,
+    "percentage": "0.034409915269%"
+  },
+  {
+    "owner": "3W56TbRzGqJ7deRndC2GXd6pW6kuqeDRNZTXfrHEteUS",
+    "lamports": 343160308818,
+    "percentage": "0.034316583772%"
+  },
+  {
+    "owner": "E68Y9r8CqQqT2ki7gGiWgEcR7LotNUwkHtHxBwqivcKQ",
+    "lamports": 340200927338,
+    "percentage": "0.034020640856%"
+  },
+  {
+    "owner": "GVbxMZHDwUB7u9DsZYeKoiU5oMK57NaARqgUPgpBuD2i",
+    "lamports": 339060913334,
+    "percentage": "0.033906637619%"
+  },
+  {
+    "owner": "7y5JYL58fK8ucjfDsfRhvVS6ycUPA1CYsNXh45G3TYt8",
+    "lamports": 338460057416,
+    "percentage": "0.033846551059%"
+  },
+  {
+    "owner": "GSwEzmYXmNLe34GpaAzGYw5KSHFwu6dJEJBaRy7joNhm",
+    "lamports": 338379437095,
+    "percentage": "0.033838488897%"
+  },
+  {
+    "owner": "Ha69SMxLJhgMSL2diSVTNQknDG8ERpEsG47Q2mt6aFRu",
+    "lamports": 335111268933,
+    "percentage": "0.033511666815%"
+  },
+  {
+    "owner": "DAVj6xWcoRRXp6rYFvEQP9v6sobG5zyTH1gF9yZcVuus",
+    "lamports": 332477607143,
+    "percentage": "0.033248296393%"
+  },
+  {
+    "owner": "69zsLcUnjLwNcLwsKbNBJh6Z1EFdEm6RNyPjY6oGHgA2",
+    "lamports": 331718317687,
+    "percentage": "0.033172366224%"
+  },
+  {
+    "owner": "AiMNnyJjMRXUHuc2wD2u6B3ot61r56DBCM2FP7HGcyW9",
+    "lamports": 330189095498,
+    "percentage": "0.033019441541%"
+  },
+  {
+    "owner": "EePXBMLrzmkPL9oAGhP6EeE6z86ePZvbA7jniTPECEkD",
+    "lamports": 330025228725,
+    "percentage": "0.033003054600%"
+  },
+  {
+    "owner": "2LuJkDuBQuSMfEqyUwwNZrThR4UyyD6K1fvkcE41BXNA",
+    "lamports": 329416813683,
+    "percentage": "0.032942212116%"
+  },
+  {
+    "owner": "ADkBGqURGEwY4DBQpN2r93BAyajiXLcJnZXTxb7J9Ak8",
+    "lamports": 327962800776,
+    "percentage": "0.032796808482%"
+  },
+  {
+    "owner": "Er8DUgchB8rSc2exJfnpfMy7C51tzCpvK6igfzK6dje4",
+    "lamports": 323396218631,
+    "percentage": "0.032340142910%"
+  },
+  {
+    "owner": "FLJGPREEaAK3w4DqDDx331HexxSQ69S6KEYU62ABxV3e",
+    "lamports": 322014282959,
+    "percentage": "0.032201947116%"
+  },
+  {
+    "owner": "H4sqjye9DbCLCEYkfnw4QVsk2cromBEkD6a4K1Nu8o3L",
+    "lamports": 321836544092,
+    "percentage": "0.032184172943%"
+  },
+  {
+    "owner": "6wmG45h2AdTRzdDLzbrsr3rUutH8CmvKBfqrgYeWJAAx",
+    "lamports": 316549820000,
+    "percentage": "0.031655492016%"
+  },
+  {
+    "owner": "FBLwH61J2M49AW8psPsRF9dEzxYWLxiTUyUr24DHgxXa",
+    "lamports": 315721283789,
+    "percentage": "0.031572637060%"
+  },
+  {
+    "owner": "J7HsfDoG7gJapa5Bf48mp8qXWXNdrsvq5mWe7k3r7fYs",
+    "lamports": 315691859438,
+    "percentage": "0.031569694578%"
+  },
+  {
+    "owner": "BhBFE8uJ5iKohb14TzgctqsBCn6WCWNMdfvBtqorEbJL",
+    "lamports": 310840331581,
+    "percentage": "0.031084533975%"
+  },
+  {
+    "owner": "44HmyuEGrMQqwJihKBfHdMqP7DUMR7advYetVdS6PEN2",
+    "lamports": 304116136313,
+    "percentage": "0.030412103615%"
+  },
+  {
+    "owner": "6Qm2rahrSWHjcEPJBvb2qkd1mFEnhZtedyQqPnodaCNu",
+    "lamports": 303824141175,
+    "percentage": "0.030382903631%"
+  },
+  {
+    "owner": "8hmWfMzDihbFHAJKRwjGopBvvNcRcjixSLuTrLTifDdG",
+    "lamports": 301433528535,
+    "percentage": "0.030143838515%"
+  },
+  {
+    "owner": "Ayu7SSTB7c9K1XxiappwApj5PpwusocXx1BBA5AhtEWo",
+    "lamports": 300102838875,
+    "percentage": "0.030010767405%"
+  },
+  {
+    "owner": "8JPYjEF8AifXVfkrgW7JrDe567ZfY5CMd21HjtmkkAqF",
+    "lamports": 300001015597,
+    "percentage": "0.030000584913%"
+  },
+  {
+    "owner": "14tMjQhQahhyk69pVtXZKcKGao1WQwggrTVbhn6yGUhF",
+    "lamports": 300000529047,
+    "percentage": "0.030000536257%"
+  },
+  {
+    "owner": "DAT3VAXF8yLrEXdMechTGh9psjMrho8wQvpo5TudS6ZA",
+    "lamports": 300000000000,
+    "percentage": "0.030000483352%"
+  },
+  {
+    "owner": "Cr1n5ZTc1W42zxHQ2LEAHUyvKPrm3ABAHKmFABMh9bKT",
+    "lamports": 300000000000,
+    "percentage": "0.030000483352%"
+  },
+  {
+    "owner": "7iYJ9xs6jiwiPpzrNj4Evf95u8Wbb52bjpQWHnXZVPEo",
+    "lamports": 300000000000,
+    "percentage": "0.030000483352%"
+  },
+  {
+    "owner": "EYcNPH51k8JAmEsdRqxwfc1k8rYCLdxZhyiBp2HaqFkc",
+    "lamports": 300000000000,
+    "percentage": "0.030000483352%"
+  },
+  {
+    "owner": "EUx9BAs9gzLgEpuuYB3rCZtvDjzbxw2aQW4Apwz8L71X",
+    "lamports": 300000000000,
+    "percentage": "0.030000483352%"
+  },
+  {
+    "owner": "8gZeJ8Rc4jMkqc9AYBEjG4jRBKH2aLgPqr2aBa3NoNaH",
+    "lamports": 298243883653,
+    "percentage": "0.029824868888%"
+  },
+  {
+    "owner": "5WWuH4WRer76oMtWvj3YqF2QGAputQQNizbmNuhsN5xY",
+    "lamports": 295313355668,
+    "percentage": "0.029531811368%"
+  },
+  {
+    "owner": "HMMfRYeD3GFMPvGm2ht6h27UXSiyi3f9LUtcNE9uYm2g",
+    "lamports": 290462368823,
+    "percentage": "0.029046704867%"
+  },
+  {
+    "owner": "Ay48CVEhWHYGtnznSP8Ceso1TTkgneGpQAkh1ZncRUNj",
+    "lamports": 290353063464,
+    "percentage": "0.029035774155%"
+  },
+  {
+    "owner": "4DFq54CRq5Ym9SW9zE4qXipjaLkad9jC8QJMshAHnq3u",
+    "lamports": 288246948608,
+    "percentage": "0.028825159276%"
+  },
+  {
+    "owner": "9GZqQS9cvtzpcQjV91KuvcS1KK44U7XrjjC7PSLP2qft",
+    "lamports": 288131010683,
+    "percentage": "0.028813565297%"
+  },
+  {
+    "owner": "CWsorWgFCKJueVGCgvH9k7ZrcugMA8HKXFkWmdhnXyZ8",
+    "lamports": 284806949680,
+    "percentage": "0.028481153841%"
+  },
+  {
+    "owner": "CPrJfr859gpmnfVJ2vRvbAXaf3GexoZE7wBSg2n2Yxpg",
+    "lamports": 284423286385,
+    "percentage": "0.028442786893%"
+  },
+  {
+    "owner": "GMKcdtXGd8RXeiRCMbRg5bFvwKWtqewHLWXmDdHWbwwo",
+    "lamports": 284049997630,
+    "percentage": "0.028405457417%"
+  },
+  {
+    "owner": "5RmmN7TLUD2GtPRWXb3MgpKV3VG4Gf3C53PnWXv7nRUk",
+    "lamports": 281672599087,
+    "percentage": "0.028167713732%"
+  },
+  {
+    "owner": "Cczj1dx567wtdKKcfXC4TLdKQB9QJTi7BCBCkgtNWBwZ",
+    "lamports": 281120368571,
+    "percentage": "0.028112489790%"
+  },
+  {
+    "owner": "HpFC5HoiFM7HYdLWbdZqqR6JZLHg9iMp7jZBEbS2hSQ8",
+    "lamports": 280000000000,
+    "percentage": "0.028000451128%"
+  },
+  {
+    "owner": "DC64mhvb1xFjv4i6yh2DCjJ8wqHeEEYbjC46NRTkiALP",
+    "lamports": 279190711051,
+    "percentage": "0.027919520929%"
+  },
+  {
+    "owner": "5EeoW3xUmSsiagrA4LAh2oUvd5unWN7AyvVksjLFMbTH",
+    "lamports": 278529092113,
+    "percentage": "0.027853357970%"
+  },
+  {
+    "owner": "HA6ERFmoZZKmRR7wdETA3Cb5SrbsXXDkZw42kRnhTZoT",
+    "lamports": 277873014074,
+    "percentage": "0.027787749109%"
+  },
+  {
+    "owner": "5VnnDb6r4i8aTw2iNTCiHt4DmbpKnPBZQHNp5QFA3pgs",
+    "lamports": 276941883964,
+    "percentage": "0.027694634598%"
+  },
+  {
+    "owner": "GCxBRc6tCddJ1HEb9vk9cKKUvVABZGHUCbwTUzzueqMS",
+    "lamports": 275166733967,
+    "percentage": "0.027517116738%"
+  },
+  {
+    "owner": "G5XAKzFJbyitbap9MEcdweA2mHmAz2kpGYsSmPJhVE4d",
+    "lamports": 273165703070,
+    "percentage": "0.027317010424%"
+  },
+  {
+    "owner": "e8AccCK2dgkfSc4BgxPiJzrLW94WF9Q9K2YrLSDaWXq",
+    "lamports": 271429340563,
+    "percentage": "0.027143371376%"
+  },
+  {
+    "owner": "BgEy4Ak8Z28nkv8ZEbGGC9snzGnoMLZ2tF3cWeUfF38f",
+    "lamports": 271049982559,
+    "percentage": "0.027105434964%"
+  },
+  {
+    "owner": "BVMFTTsN3M2v6zk52iyZ5MzkEknj7HoyLdzD49hhzdzJ",
+    "lamports": 268765394532,
+    "percentage": "0.026876972481%"
+  },
+  {
+    "owner": "BQjPEDrxwX1rRziUAytboogYabAK3oCwacryHjLobXQ7",
+    "lamports": 267617312735,
+    "percentage": "0.026762162451%"
+  },
+  {
+    "owner": "Bsmkt1rfz6ie6tUBA3WrQAg7VHL8KrZzhkJiy4s9emzT",
+    "lamports": 267428322717,
+    "percentage": "0.026743263145%"
+  },
+  {
+    "owner": "BdYZrt1bX9tEo9tgZo6yNqStmX71WfvSqxmuKByp3LBJ",
+    "lamports": 266667000000,
+    "percentage": "0.026667129647%"
+  },
+  {
+    "owner": "12C1XJKhREFeGyy5fLVNa3rkVeFjgTiUgusgUokqmZGE",
+    "lamports": 266455651066,
+    "percentage": "0.026645994413%"
+  },
+  {
+    "owner": "DtDQt3An2X6vKFeKoejxZ8rCzmUKnsxsooV5sLrKUqgn",
+    "lamports": 265813166243,
+    "percentage": "0.026581744895%"
+  },
+  {
+    "owner": "8WU883TauJD4bjx4xLgbTc3UjpR532Wr2TSCxpDignCs",
+    "lamports": 264811435310,
+    "percentage": "0.026481570188%"
+  },
+  {
+    "owner": "64ffBUa5qYeHwks9v1PQo98AX2eTScP7vxQhaawAdiA7",
+    "lamports": 263854154326,
+    "percentage": "0.026385840547%"
+  },
+  {
+    "owner": "GUgupfZrmNKMmngdTNKau4mxyov3u9tgLZCzdmU4eVXK",
+    "lamports": 263604797438,
+    "percentage": "0.026360904457%"
+  },
+  {
+    "owner": "EEwpnESbkpYFTae5JrDWSgXPXzXbct5ZZMCQMy19tywy",
+    "lamports": 261583111179,
+    "percentage": "0.026158732573%"
+  },
+  {
+    "owner": "7vyCKRFFZik6qyw6ZvJURUpJdUH4qxwX9DWxG7o3kMkr",
+    "lamports": 261476707279,
+    "percentage": "0.026148092012%"
+  },
+  {
+    "owner": "79MrV5paMKMSdUs8bQGMPAbc8bxkHY25tvEo6mKf1TmD",
+    "lamports": 260435325690,
+    "percentage": "0.026043952175%"
+  },
+  {
+    "owner": "2vC5n3LJ54moeFGgEuBmrb3HWNPJX9ePjx7CrzhXwF1d",
+    "lamports": 260364370773,
+    "percentage": "0.026036856569%"
+  },
+  {
+    "owner": "46rbGYELDsTg6fTnYeNy6R4tzy18vCyUSNaNqVgGG5Ak",
+    "lamports": 260342750128,
+    "percentage": "0.026034694470%"
+  },
+  {
+    "owner": "AoVd1fDczbvwsGiGHNhcXPP7nRrREgDzQThpkkHzYVMY",
+    "lamports": 256844866589,
+    "percentage": "0.025684900480%"
+  },
+  {
+    "owner": "C8iVXaTE3pg6rxn36tHzonhd16hSQzEcNYFLcSf8SmzW",
+    "lamports": 255381671976,
+    "percentage": "0.025538578661%"
+  },
+  {
+    "owner": "CTwSwS9PTBcWjKwqXNHHWjugdrfYLYjQtt8Y1Ufg76mD",
+    "lamports": 251753114061,
+    "percentage": "0.025175717024%"
+  },
+  {
+    "owner": "GUSp8BDYGx7WGj8i9DXmMPxoeXXw8BmepC83sq5hXM9p",
+    "lamports": 250335324850,
+    "percentage": "0.025033935818%"
+  },
+  {
+    "owner": "54eHD7Rq9fKCD51qJgmqrrqECkXg2RRh3FVYXLAmDb52",
+    "lamports": 250129199709,
+    "percentage": "0.025013322972%"
+  },
+  {
+    "owner": "BcMUyRqyAZYZr6R1YDwhdNAo2wRybKqseXrnbR39kaJd",
+    "lamports": 250000000000,
+    "percentage": "0.025000402793%"
+  },
+  {
+    "owner": "2EJmmYmaGq2LrVeCiMiugM7YWrXSoMCv1DmRmf2DLtz6",
+    "lamports": 250000000000,
+    "percentage": "0.025000402793%"
+  },
+  {
+    "owner": "8AwnQLTbKLvEzamccaaTcZfJXuc1uPUt9NgEEcveoYqe",
+    "lamports": 250000000000,
+    "percentage": "0.025000402793%"
+  },
+  {
+    "owner": "ComcUBeYwShzJC47ESu8v5fBNcwtEkjvefNy8BWBhfA9",
+    "lamports": 250000000000,
+    "percentage": "0.025000402793%"
+  },
+  {
+    "owner": "9XMyEUWRbNRs2XpBZNSTnX1hRgmUZQy7tozbnczu4ukM",
+    "lamports": 250000000000,
+    "percentage": "0.025000402793%"
+  },
+  {
+    "owner": "BgVkUJo1XeNcApT3dHs9jeyic71a5NJnsN6f4q2cJ21w",
+    "lamports": 250000000000,
+    "percentage": "0.025000402793%"
+  },
+  {
+    "owner": "zNe5isT6nXtsjAVAHJsNhbbKdAomP59tZAG5anc7tCk",
+    "lamports": 247053241347,
+    "percentage": "0.024705722180%"
+  },
+  {
+    "owner": "8CmVYS9wkYQispTLacJndxkvqrBkVAJKLJu9MSFcnTqx",
+    "lamports": 245461026299,
+    "percentage": "0.024546498110%"
+  },
+  {
+    "owner": "V9kGnuquCsScFbhXcobtqYtHDPzVE2eHT1ogPYRG5Md",
+    "lamports": 245423946668,
+    "percentage": "0.024542790087%"
+  },
+  {
+    "owner": "HjXQFXtYs1kgQbibABiE1YPQozYfoFJ7RxFNGTjLz3xw",
+    "lamports": 245000322108,
+    "percentage": "0.024500426949%"
+  },
+  {
+    "owner": "H5EP81CTMVt2b7usXecoUHiZBpk8dTUBkfzyiTmMjAah",
+    "lamports": 242073851013,
+    "percentage": "0.024207775124%"
+  },
+  {
+    "owner": "4iR7Z7mA9nxbqfrbgMEeFQRFvCXFP2h9BUwcWWp4TBYd",
+    "lamports": 240000000000,
+    "percentage": "0.024000386681%"
+  },
+  {
+    "owner": "zuNroiPXJpkKGMAp85ThbfW9L1BZCMjx57RPFML9nGP",
+    "lamports": 239519007250,
+    "percentage": "0.023952286631%"
+  },
+  {
+    "owner": "GM3YA6CG2NuSM8ykJY4yWjZL7Vc2ua4K3khtDrFfXseU",
+    "lamports": 239278492033,
+    "percentage": "0.023928234722%"
+  },
+  {
+    "owner": "B2FhC6r3pF2oj23eHXq9uqGYYJ3th3txusnhtH12auw",
+    "lamports": 237920626798,
+    "percentage": "0.023792446011%"
+  },
+  {
+    "owner": "wWcLkhaU3YqBNTcCKRLZj8UvWJTjLv6kPkwQst5hFfb",
+    "lamports": 236838310875,
+    "percentage": "0.023684212675%"
+  },
+  {
+    "owner": "72aPKanE7QmoRLHThaxnp6orUb2HAragJW8jbcS6Wk1J",
+    "lamports": 235161250886,
+    "percentage": "0.023516503974%"
+  },
+  {
+    "owner": "DAWm9KtySYbq9ySqTndenxrDGMu9KfR4KnJUXZmzrmSr",
+    "lamports": 232994382622,
+    "percentage": "0.023299813656%"
+  },
+  {
+    "owner": "FYyUpBn9T3EJcxP2oUyVQTdt3gRjUVsFWT6Cs6b2gwgi",
+    "lamports": 232083548554,
+    "percentage": "0.023208728782%"
+  },
+  {
+    "owner": "FzJsyS5KNo7wSVcsUZTNpubYfEbqLmzWEMmx21yeuRDG",
+    "lamports": 230687574742,
+    "percentage": "0.023069129152%"
+  },
+  {
+    "owner": "A8PQsXd9kum2PAiq5Xr2Aqv4T9i1a2uqAhtYZqBCz5E5",
+    "lamports": 230365058243,
+    "percentage": "0.023036876982%"
+  },
+  {
+    "owner": "FzRwFTYByUDE4QXhbpVUQ7ym5QqZ5tn64AzvtCMZ5i1A",
+    "lamports": 230156522733,
+    "percentage": "0.023016023095%"
+  },
+  {
+    "owner": "Di81ZCKgqXAoYcEnRUdMSbXBrJnzyGUxeNnacRmxASXU",
+    "lamports": 228947510337,
+    "percentage": "0.022895119908%"
+  },
+  {
+    "owner": "DtpzZrTj19CLcaTuptANfncGhPmuzt11esvnY55MLZq3",
+    "lamports": 227365547815,
+    "percentage": "0.022736921107%"
+  },
+  {
+    "owner": "BEX7MtyYjqUHjJvQyZRUwQ7xPiz9c5MgsAuZSASZvtpN",
+    "lamports": 227083892138,
+    "percentage": "0.022708755085%"
+  },
+  {
+    "owner": "Gia9ZSNG3JnFxRvP86CeQ7CqJMFPJLZzjeR8CBTnr5fM",
+    "lamports": 225031321835,
+    "percentage": "0.022503494748%"
+  },
+  {
+    "owner": "3kiTedLyDpQ7tCHZEG4vTwTrLN9rpFVSfeLBuL74L9kF",
+    "lamports": 224489576852,
+    "percentage": "0.022449319377%"
+  },
+  {
+    "owner": "FRo3UXWVBUhJKTfE7cCXteKP99vDsT7epkSpq95VdGix",
+    "lamports": 223765027258,
+    "percentage": "0.022376863250%"
+  },
+  {
+    "owner": "5mBNAXEf1GExEwvzruUdBSveLcQJCgX4qG3LEH4hyZuK",
+    "lamports": 223718057456,
+    "percentage": "0.022372166194%"
+  },
+  {
+    "owner": "6uBGWszKJfvBp7PHHezMLCNGZtCKRSHjJZYLjo1rDxsK",
+    "lamports": 221854070285,
+    "percentage": "0.022185764474%"
+  },
+  {
+    "owner": "5XKz9PMnNTFYpiAsRusS9rMxfCKV5SVYEjctvCSL2hMT",
+    "lamports": 219599916410,
+    "percentage": "0.021960345454%"
+  },
+  {
+    "owner": "9KZZpsx2LkLLA9W7CcopLryaM6g3YpeX9VTSgCy2uNE1",
+    "lamports": 219229967523,
+    "percentage": "0.021923349970%"
+  },
+  {
+    "owner": "EdjZSsN59TTVSZPiB45k5WdTFLTehjTTCF5FNUbwQz4g",
+    "lamports": 217441997451,
+    "percentage": "0.021744550082%"
+  },
+  {
+    "owner": "FxyoJNa1bzN4MMGnuYUGd9dAYsdTofhG8PDhaiaHBWXc",
+    "lamports": 216910535596,
+    "percentage": "0.021691403040%"
+  },
+  {
+    "owner": "7pib9t7tqveVRdMkc4fn5br8vDB569ddriVkwVjWMmqk",
+    "lamports": 215188101442,
+    "percentage": "0.021519156849%"
+  },
+  {
+    "owner": "HgxkJQ9UsfYNCfTxwUpFtJ9qPLuPS88jsCRujAf8AmXQ",
+    "lamports": 215108793401,
+    "percentage": "0.021511225917%"
+  },
+  {
+    "owner": "8gFXVXUppKbiAM2pimk5zZrs1KZLjaPApX9As8No4mRM",
+    "lamports": 214890597867,
+    "percentage": "0.021489406012%"
+  },
+  {
+    "owner": "CsDuybp4yvzrxXZRMG9g78YjPP1HfcBQWuBNroWmJ1kb",
+    "lamports": 214166644297,
+    "percentage": "0.021417009489%"
+  },
+  {
+    "owner": "BV96iS6XUDJY6piF3eReSaoKCxxo6qrQCBw8eGRAaqYP",
+    "lamports": 211999388086,
+    "percentage": "0.021200280376%"
+  },
+  {
+    "owner": "49bNvW9GLnXT3sQX4cqCitBuaMDMfsgYcG21ogUmUMWM",
+    "lamports": 211981645171,
+    "percentage": "0.021198506056%"
+  },
+  {
+    "owner": "FR2QX8EMcMbPirdMWn7pEKzCMoHxVeTQT8NiKvFhLF4u",
+    "lamports": 211297908938,
+    "percentage": "0.021130131331%"
+  },
+  {
+    "owner": "C5SEaHqfo3SgEyGaJoTg5NooKkjkx7uH7krwW5w24mkD",
+    "lamports": 210439939034,
+    "percentage": "0.021044332958%"
+  },
+  {
+    "owner": "6P2i4pv9GZTH7Mmm1ss4spMX6rPk91UgUkKXET53LtNG",
+    "lamports": 210311359468,
+    "percentage": "0.021031474795%"
+  },
+  {
+    "owner": "BNkoqCreN8X496TAW3ZMmAxwKFZphn8UTtxQZNhhmcVB",
+    "lamports": 210079628526,
+    "percentage": "0.021008301327%"
+  },
+  {
+    "owner": "DzZStnT19aSNcRFmcnR3EVdnT9YdS9QHP3QwacnLBkN",
+    "lamports": 209502556960,
+    "percentage": "0.020950593241%"
+  },
+  {
+    "owner": "2kzgqU6kLD9s39FMFHNFAt1veGronCCnokruyDbheK7C",
+    "lamports": 209462137570,
+    "percentage": "0.020946551237%"
+  },
+  {
+    "owner": "GkctYSzUjrEAzJ9FU9URCAEgeYE2qCv7ZjTmBXHYbirm",
+    "lamports": 207246712682,
+    "percentage": "0.020725005178%"
+  },
+  {
+    "owner": "5ab9U7S3E1sedMSpPbVe3dQjjfwy9pQPD55xpMyRSwrh",
+    "lamports": 206959196432,
+    "percentage": "0.020696253090%"
+  },
+  {
+    "owner": "7yyPLG4H1G86CaqpJ1VUoej8NACkoEb4eAiF3r9NH9LH",
+    "lamports": 206808798645,
+    "percentage": "0.020681213069%"
+  },
+  {
+    "owner": "HoNsNyVWPLJwfL3jhFCf4upDrKeDd1jyAg763eD6F4Hg",
+    "lamports": 206409949600,
+    "percentage": "0.020641327522%"
+  },
+  {
+    "owner": "AjkWBvTKmW1mm5mjWRXf9FdN9ncZzUtcS2aYwQJNpeh9",
+    "lamports": 205022573982,
+    "percentage": "0.020502587725%"
+  },
+  {
+    "owner": "6wfAwW7RQue7FFPWcUCtbkmpc1c5avwzjT38JNzcXBhe",
+    "lamports": 204294219558,
+    "percentage": "0.020429751109%"
+  },
+  {
+    "owner": "6VqgSWCZbuHEiAD1KXZt64BAEu8q9mE8ajx7rCCxsiu2",
+    "lamports": 203948197594,
+    "percentage": "0.020395148355%"
+  },
+  {
+    "owner": "CBBtfZtXZAmqrSWtiz9qcTXNwptte9zAetQgKdHcEdnD",
+    "lamports": 201559061432,
+    "percentage": "0.020156230890%"
+  },
+  {
+    "owner": "HThhDDBozSevsPkJhNR6G5hBUyFGtnFpd18gqBeLzxJX",
+    "lamports": 201334220225,
+    "percentage": "0.020133746407%"
+  },
+  {
+    "owner": "4rLycvXojmE8JK7PYRGkGC8uCPysVi6tLaDofb9JoG9L",
+    "lamports": 201012475328,
+    "percentage": "0.020101571399%"
+  },
+  {
+    "owner": "BUkz3KBmBf7YZcLb8zLS5EmAXvCX2BNV44X5FjPWXcPd",
+    "lamports": 201000000000,
+    "percentage": "0.020100323846%"
+  },
+  {
+    "owner": "757bihWrfoXdZKezu2wnsviXereNKuUzDUARqGohcpCP",
+    "lamports": 200426312602,
+    "percentage": "0.020042954182%"
+  },
+  {
+    "owner": "Heq6Shea952RNvhYVHby3BmQckgjVx1aXXeRHogv63tm",
+    "lamports": 200045168946,
+    "percentage": "0.020004839202%"
+  },
+  {
+    "owner": "2oiZtp64rq93H2vvkvDWgkPEGjsv5i9k1a9gPFnYuAqb",
+    "lamports": 200025616730,
+    "percentage": "0.020002883949%"
+  },
+  {
+    "owner": "2C5hmWjpLvaqLa7gFWt8LMx8JGA64miTkBimyer4hfkV",
+    "lamports": 200018925333,
+    "percentage": "0.020002214798%"
+  },
+  {
+    "owner": "FUhAruS8FLGSXfNgaHPVxfRSdUYuxFPhqt4bWfKgJv5f",
+    "lamports": 200000928131,
+    "percentage": "0.020000415049%"
+  },
+  {
+    "owner": "6v4H6FmJdRbcyB7eTUvbiY9QK81N1kbvN3x3gbWVDNkY",
+    "lamports": 200000548716,
+    "percentage": "0.020000377107%"
+  },
+  {
+    "owner": "APmkd2eaZL2Ysug9MCYC9jeeQMA1zL2pYjAh6yZ8S7zK",
+    "lamports": 200000000000,
+    "percentage": "0.020000322234%"
+  },
+  {
+    "owner": "9f3xGrE74nVzhwV3CecWkw5zo4NK52dEPVSdGgBk9Uxi",
+    "lamports": 200000000000,
+    "percentage": "0.020000322234%"
+  },
+  {
+    "owner": "ALzCEBu9tm8YMeV4AGmW3kzTW86z1ewbNLqmtSwExSqe",
+    "lamports": 200000000000,
+    "percentage": "0.020000322234%"
+  },
+  {
+    "owner": "DTawXiBRdEGtPypCEmk6d69dkPBMwNwAycRKsvbjEtsm",
+    "lamports": 200000000000,
+    "percentage": "0.020000322234%"
+  },
+  {
+    "owner": "4U9FY6XuzDNB59igJXsuL5mCsddciywKnscCgJUPyTma",
+    "lamports": 199801002470,
+    "percentage": "0.019980422161%"
+  },
+  {
+    "owner": "GVste21FLVbKurXtRfCLXpfury332vKdbPcrrBoLECVA",
+    "lamports": 199355843831,
+    "percentage": "0.019935905580%"
+  },
+  {
+    "owner": "2RZs4VfnPyWBoex9mrQDYv9roeqkXt1fp9XtATuH7qow",
+    "lamports": 198999681054,
+    "percentage": "0.019900288728%"
+  },
+  {
+    "owner": "HFu2gx8CDXqFRBVZ5j7cLocCyfdJQPnYLfkeBGfY47uw",
+    "lamports": 198741368509,
+    "percentage": "0.019874457057%"
+  },
+  {
+    "owner": "6XabU7H2AUKhovgWG42UFKaXTy2DJu6WCXMkD829S3wb",
+    "lamports": 198650708718,
+    "percentage": "0.019865390932%"
+  },
+  {
+    "owner": "BuYKiAjJ7TkuTCjSDiDAtg7BaFE93TWGFtdoP7RJLJRY",
+    "lamports": 198327288081,
+    "percentage": "0.019833048348%"
+  },
+  {
+    "owner": "82MsEJUsQdEWbCg8zkpgUeShCLzF44AS8C935bYGEtXp",
+    "lamports": 197870984457,
+    "percentage": "0.019787417250%"
+  },
+  {
+    "owner": "5vS3fdU6zjwk3NwADk8ybWwPoCUnArBK9oUAiPxg2Dxj",
+    "lamports": 197226341295,
+    "percentage": "0.019722951895%"
+  },
+  {
+    "owner": "97dg6qxFL94Gxa9cwLypEk6pemTMv6RdK9ctFEjNtvzk",
+    "lamports": 197118863664,
+    "percentage": "0.019712203959%"
+  },
+  {
+    "owner": "G8ZHz5ZFM4pcKp9gojSLF9J5UHR1uPLenjbapL78vtgF",
+    "lamports": 196718185774,
+    "percentage": "0.019672135524%"
+  },
+  {
+    "owner": "axRZ53FstVEAPktbqu4d4zom7EAe7581V5HM5bti3gc",
+    "lamports": 196570678796,
+    "percentage": "0.019657384589%"
+  },
+  {
+    "owner": "8yW1UL6VEfBb6xYvQqou62NYiL7UQzoTXqVvuKQ5HrZj",
+    "lamports": 195018997895,
+    "percentage": "0.019502213999%"
+  },
+  {
+    "owner": "6vjSnjzPM5ZT2ZNGtuEVa5UF9cGiuc8me98dwnHWdGHf",
+    "lamports": 194462611669,
+    "percentage": "0.019446574480%"
+  },
+  {
+    "owner": "7Wn4YPX1UXRHR9KazWdJ2hYd6xE3JwmTNRT1RsYUdvgv",
+    "lamports": 193642797258,
+    "percentage": "0.019364591718%"
+  },
+  {
+    "owner": "FMZaFX16Gc9kPcVi5w4y8Ywr2mUCsjKdQrNgLrSgaUfg",
+    "lamports": 191964831999,
+    "percentage": "0.019196792488%"
+  }
+]

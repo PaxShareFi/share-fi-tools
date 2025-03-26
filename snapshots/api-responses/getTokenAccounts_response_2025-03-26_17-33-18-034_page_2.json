@@ -1,0 +1,10 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "total": 0,
+    "limit": 1000,
+    "page": 2,
+    "token_accounts": []
+  },
+  "id": "helius-test"
+}
