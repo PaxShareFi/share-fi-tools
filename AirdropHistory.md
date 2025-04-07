@@ -78,14 +78,14 @@ https://solscan.io/tx/22kVHTpMcXatwx445CyK4LMec36UgMhbLcFNAcCoANppg9iSJBkAzG8k2o
 https://solscan.io/tx/2vQtijtzgHWx6BuUkdhBepx1JBfe8eGh1JtynBriA3xPaB5xLgeiUmFk34uMsC5hr2As5WnZXPUUBGzcprqdDc6W
 https://solscan.io/tx/5v3Phhuj1FfW9y3fEXRk7ZLE8NiKrHsLpuvjKgjXJYvrjVdkkZfmfXnkuvbbZfKitsrQFCFW6mDCTA11MEDLnHDX
 
-## Week 7,8, & 9 Airdrop & Token Burn - No airdrop these weeks due to limited SOL rewards
+## Week 7, 8, & 9 Airdrop & Token Burn - No airdrop these weeks due to limited SOL rewards
 - **Date**: April 7th, 2024
 - **Status**: Complete
-- **Total Harvested Week 7,8, & 9 rewards from LPs**:~0.123 SOL
+- **Total Harvested Week 7, 8, & 9 rewards from LPs**:~0.123 SOL
 - **SOL in airdropper wallet BEFORE rewards colleciton**: 0.55161
 - **SOL in airdropper wallet AFTER rewards collection**: 0.56121 (no airdrop these weeks so SOL amount is accumulating, still 192 GFM left for $Share holders)
-- **SHARE Week 7,8, & 9 Burn amount**: 285,731 $Share
-- **Week 7,8, & 9 Solscans**: 
+- **SHARE Week 7, 8, & 9 Burn amount**: 285,731 $Share
+- **Week 7, 8, & 9 Solscans**: 
 https://solscan.io/tx/2dxqgF95YJimkXyimFtAj1mAyebv9LcnFV62xJhWRCroZyEQYsAoQNa85LSJk8fKsbcVngWgcD6YYcZdKGebq5No
 https://solscan.io/tx/2rr9eGjcpU5RyNsiy68j9TpVGS3GPdLH15rvpf5jeFbDvpvx92oUsBsp6aq8vVPLCgrihts1vdMa9aW2VMxgMyhZ
 https://solscan.io/tx/3LgfyhXofTDzHqQddyXpHaUTbVEm2gMzw68Y97HzYJBGZKimhXPjA7AWcgaSEABgiq7M1wy3yn7TYb1C9nLqAYhQ
